@@ -49,7 +49,7 @@ export function Hero() {
           router.push("/menu");
         }
       }}
-      className="relative flex h-screen w-full cursor-pointer items-center justify-center overflow-hidden"
+      className="relative flex h-[100dvh] w-full cursor-pointer items-center justify-center overflow-hidden"
     >
       {/* ---- warm ambient base (light so the beans read) ---- */}
       <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_50%_34%,#fbf6ec_0%,#efe2cd_52%,#e2cdae_100%)]" />

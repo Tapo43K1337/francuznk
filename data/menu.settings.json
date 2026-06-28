@@ -1,0 +1,40 @@
+{
+  "country": "UA",
+  "accountHash": "oaYvSKkeZv0",
+  "siteLang": "uk-UA",
+  "logo": "https://img.postershop.me/20148/06b24651-9137-488e-bfbb-3ecc7a4df1c5_image.png",
+  "shopName": "Кав'ярня&Пекарня Franцуз",
+  "deliveryColor": "#1D2223",
+  "currency": {
+    "name": "Украинская гривна",
+    "symbol": "₴",
+    "isoCode": "UAH"
+  },
+  "mainPageSeoTitle": "Кав'ярня&Пекарня Franцуз",
+  "wifiName": "Francuz",
+  "wifiPass": "francuz1",
+  "address": "м.Нікополь, пр.Трубників, буд.39",
+  "contacts": [
+    {
+      "link": "https://www.instagram.com/frantsuz_kaviarnia",
+      "title": "frantsuz_kaviarnia",
+      "icon": "instagram"
+    },
+    {
+      "link": "tel:+380951222021",
+      "title": "+380951222021",
+      "icon": "phone"
+    },
+    {
+      "link": "mailto:francuz.nikopil@gmail.com",
+      "title": "francuz.nikopil@gmail.com",
+      "icon": "email"
+    }
+  ],
+  "owner": "Кекух Анна Віталіївна",
+  "reviewStats": {
+    "averageRating": 4.8,
+    "count": 13
+  },
+  "isBlocked": false
+}

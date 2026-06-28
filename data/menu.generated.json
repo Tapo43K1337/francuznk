@@ -1,0 +1,4466 @@
+{
+  "categories": [
+    {
+      "id": "popular",
+      "name": "Нове та популярне",
+      "slug": "popular",
+      "order": 1,
+      "items": [
+        {
+          "id": "3",
+          "name": "Капучино 250 мл",
+          "price": 52,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/c6c9c557-e68c-4075-8b77-05d1ce196b1f_image.jpg",
+          "categoryId": "popular",
+          "popular": true
+        },
+        {
+          "id": "1",
+          "name": "Боржомі 0.5",
+          "price": 99,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/c05fef51-ce1a-4a1d-ba75-0efabc309005_image.jpg",
+          "categoryId": "popular",
+          "popular": true
+        }
+      ]
+    },
+    {
+      "id": "category0",
+      "name": "Загальне",
+      "slug": "category0",
+      "order": 2,
+      "items": [
+        {
+          "id": "278",
+          "name": "Чай заварний (пакетик) 350мл",
+          "price": 32,
+          "currency": "₴",
+          "categoryId": "category0",
+          "popular": false
+        },
+        {
+          "id": "279",
+          "name": "Чай заварний (пакетик) 450мл",
+          "price": 39,
+          "currency": "₴",
+          "categoryId": "category0",
+          "popular": false
+        },
+        {
+          "id": "351",
+          "name": "Льодяник натуральний",
+          "price": 36,
+          "currency": "₴",
+          "categoryId": "category0",
+          "popular": false
+        },
+        {
+          "id": "523",
+          "name": "Тирамісу \"Малиновий\"",
+          "price": 145,
+          "currency": "₴",
+          "categoryId": "category0",
+          "popular": false
+        },
+        {
+          "id": "586",
+          "name": "Гарбузове лате",
+          "price": 74,
+          "currency": "₴",
+          "categoryId": "category0",
+          "popular": false
+        },
+        {
+          "id": "653",
+          "name": "Льодяник \"Півник\"",
+          "price": 15,
+          "currency": "₴",
+          "categoryId": "category0",
+          "popular": false
+        }
+      ]
+    },
+    {
+      "id": "category1",
+      "name": "Кава",
+      "slug": "category1",
+      "order": 3,
+      "items": [
+        {
+          "id": "3",
+          "name": "Капучино 250 мл",
+          "price": 52,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/c6c9c557-e68c-4075-8b77-05d1ce196b1f_image.jpg",
+          "categoryId": "category1",
+          "popular": true
+        },
+        {
+          "id": "16",
+          "name": "Американо 120мл",
+          "price": 36,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/7aa60e30-030c-4087-972f-9e9e9ebe4ca4_image.jpeg",
+          "categoryId": "category1",
+          "popular": false
+        },
+        {
+          "id": "17",
+          "name": "Американо 240мл",
+          "price": 48,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/743fdfd8-54c2-48ca-84b3-81c70e26cc23_image.jpeg",
+          "categoryId": "category1",
+          "popular": false
+        },
+        {
+          "id": "18",
+          "name": "Еспресо 30 мл",
+          "price": 36,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/394f042d-d884-47e1-9d08-8d99eb8c0944_image.jpeg",
+          "categoryId": "category1",
+          "popular": false
+        },
+        {
+          "id": "19",
+          "name": "Еспресо 60 мл",
+          "price": 48,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/7b9c4396-5c91-4527-8101-2027e467bf88_image.jpeg",
+          "categoryId": "category1",
+          "popular": false
+        },
+        {
+          "id": "20",
+          "name": "Капучино 340 мл",
+          "price": 70,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/cdf9d288-6630-4090-b794-8a67456bbdb2_image.jpeg",
+          "categoryId": "category1",
+          "popular": false
+        },
+        {
+          "id": "21",
+          "name": "Капучино 450 мл",
+          "price": 82,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/f5ec616d-bad8-44c3-8ae4-b6c60654576b_image.jpeg",
+          "categoryId": "category1",
+          "popular": false
+        },
+        {
+          "id": "25",
+          "name": "Лате 250 мл",
+          "price": 52,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/c424aff3-945e-4073-a79f-fddde1521769_image.jpeg",
+          "categoryId": "category1",
+          "popular": false
+        },
+        {
+          "id": "26",
+          "name": "Лате 340 мл",
+          "price": 66,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/7ba77bfd-ff42-4ec0-bb3a-d3f5dfb16acd_image.jpeg",
+          "categoryId": "category1",
+          "popular": false
+        },
+        {
+          "id": "27",
+          "name": "Лате 450 мл",
+          "price": 76,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/22ae0b27-13c3-4c53-9a94-fbd2458dc53a_image.jpeg",
+          "categoryId": "category1",
+          "popular": false
+        },
+        {
+          "id": "31",
+          "name": "Кава Flat White",
+          "price": 66,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/e272ca64-0dd4-4d3c-81e1-169c6f574083_image.jpeg",
+          "categoryId": "category1",
+          "popular": false
+        },
+        {
+          "id": "34",
+          "name": "Кава \"Раф\" 250 мл",
+          "price": 70,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/f7d35d17-668a-453a-aede-9f456150c1f6_image.jpeg",
+          "categoryId": "category1",
+          "popular": false
+        },
+        {
+          "id": "35",
+          "name": "Кава \"Раф\" 340 мл",
+          "price": 86,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/950c0c88-aafa-4bfe-a4cf-94b377478b92_image.jpeg",
+          "categoryId": "category1",
+          "popular": false
+        },
+        {
+          "id": "36",
+          "name": "Кава \"Раф\" 450 мл",
+          "price": 105,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/22f18126-6b91-4c69-b1c6-da8c366f1112_image.jpeg",
+          "categoryId": "category1",
+          "popular": false
+        },
+        {
+          "id": "37",
+          "name": "Какао 250 мл",
+          "price": 46,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/a7b0b27c-9611-440f-9d6c-3570b7e7cbf3_image.jpeg",
+          "categoryId": "category1",
+          "popular": false
+        },
+        {
+          "id": "38",
+          "name": "Какао 340 мл",
+          "price": 52,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/d0f7de93-2e4a-40b8-98d1-fa17c1ecc48d_image.jpeg",
+          "categoryId": "category1",
+          "popular": false
+        },
+        {
+          "id": "39",
+          "name": "Какао 450 мл",
+          "price": 62,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/16f4735a-b7f7-4e3b-bbfa-5178ae316a01_image.jpeg",
+          "categoryId": "category1",
+          "popular": false
+        },
+        {
+          "id": "188",
+          "name": "Мокачино 250 мл",
+          "price": 62,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/0d935be7-9941-4f16-9c4c-2f705de09d3e_image.jpeg",
+          "categoryId": "category1",
+          "popular": false
+        },
+        {
+          "id": "189",
+          "name": "Мокачино 340 мл",
+          "price": 76,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/0603a637-fa0c-4184-ab76-ddd9a5d277a3_image.jpeg",
+          "categoryId": "category1",
+          "popular": false
+        },
+        {
+          "id": "190",
+          "name": "Мокачино 450 мл",
+          "price": 105,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/61092012-61fc-495f-9b33-6c84b6f15fb2_image.jpeg",
+          "categoryId": "category1",
+          "popular": false
+        },
+        {
+          "id": "241",
+          "name": "Матча лате",
+          "price": 82,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/0aabdbe4-e957-48af-9d3b-3c361c333dc4_image.jpeg",
+          "categoryId": "category1",
+          "popular": false
+        },
+        {
+          "id": "527",
+          "name": "Мега лате",
+          "price": 92,
+          "currency": "₴",
+          "categoryId": "category1",
+          "popular": false
+        },
+        {
+          "id": "564",
+          "name": "Кава Honduras 250г",
+          "price": 430,
+          "currency": "₴",
+          "categoryId": "category1",
+          "popular": false
+        },
+        {
+          "id": "565",
+          "name": "Кава Honduras 250г (мелена)",
+          "price": 370,
+          "currency": "₴",
+          "categoryId": "category1",
+          "popular": false
+        },
+        {
+          "id": "566",
+          "name": "Кава Colombia 250г",
+          "price": 370,
+          "currency": "₴",
+          "categoryId": "category1",
+          "popular": false
+        },
+        {
+          "id": "567",
+          "name": "Кава Colombia 250г (мелена)",
+          "price": 370,
+          "currency": "₴",
+          "categoryId": "category1",
+          "popular": false
+        },
+        {
+          "id": "574",
+          "name": "Кавовий глінтвейн",
+          "price": 96,
+          "currency": "₴",
+          "categoryId": "category1",
+          "popular": false
+        },
+        {
+          "id": "579",
+          "name": "Мега капучино",
+          "price": 99,
+          "currency": "₴",
+          "categoryId": "category1",
+          "popular": false
+        },
+        {
+          "id": "589",
+          "name": "Кава Brazil Mogiana 250г. (мелена)",
+          "price": 370,
+          "currency": "₴",
+          "categoryId": "category1",
+          "popular": false
+        },
+        {
+          "id": "602",
+          "name": "Теплий Джміль",
+          "price": 96,
+          "currency": "₴",
+          "categoryId": "category1",
+          "popular": false
+        }
+      ]
+    },
+    {
+      "id": "category7",
+      "name": "Кава на рослинному молоці",
+      "slug": "category7",
+      "order": 4,
+      "items": [
+        {
+          "id": "22",
+          "name": "Капучино 250 мл на рослинному молоці",
+          "price": 82,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/8a88f66c-44db-4458-b687-f07e832a6004_image.jpeg",
+          "categoryId": "category7",
+          "popular": false
+        },
+        {
+          "id": "23",
+          "name": "Капучино 340 мл на рослинному молоці",
+          "price": 104,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/5f40cca8-c71e-4bf8-8d8c-fb0d4c6d0ed0_image.jpeg",
+          "categoryId": "category7",
+          "popular": false
+        },
+        {
+          "id": "24",
+          "name": "Капучино 450 мл на рослинному молоці",
+          "price": 120,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/002e0ad5-ffd5-4c04-910b-88c86e27630e_image.jpeg",
+          "categoryId": "category7",
+          "popular": false
+        },
+        {
+          "id": "28",
+          "name": "Лате 250 мл на рослинному молоці",
+          "price": 80,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/57414a4d-6c30-440f-9878-ae288d5f3bd5_image.jpeg",
+          "categoryId": "category7",
+          "popular": false
+        },
+        {
+          "id": "29",
+          "name": "Лате 340 мл на рослинному молоці",
+          "price": 106,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/171f0755-c280-4a63-8554-db8a2bf4ff88_image.jpeg",
+          "categoryId": "category7",
+          "popular": false
+        },
+        {
+          "id": "30",
+          "name": "Лате 450 мл на рослинному молоці",
+          "price": 122,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/1333ee0c-fbe2-4592-8a92-9c18ed1e26f2_image.jpeg",
+          "categoryId": "category7",
+          "popular": false
+        },
+        {
+          "id": "32",
+          "name": "Кава Flat White на рослинному молоці",
+          "price": 94,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/15ae1041-55f5-4539-90a7-55690a9ec0e6_image.jpeg",
+          "categoryId": "category7",
+          "popular": false
+        }
+      ]
+    },
+    {
+      "id": "category3",
+      "name": "Холодні напої",
+      "slug": "category3",
+      "order": 5,
+      "items": [
+        {
+          "id": "193",
+          "name": "Айс Лате 300 мл.",
+          "price": 75,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/7a262657-63f0-4787-841f-cdc974e7900a_image.jpeg",
+          "categoryId": "category3",
+          "popular": false
+        },
+        {
+          "id": "194",
+          "name": "Айс Лате 420 мл.",
+          "price": 85,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/7ca7a1d1-42b1-42c7-8ab7-503d3e6e43ce_image.jpeg",
+          "categoryId": "category3",
+          "popular": false
+        },
+        {
+          "id": "195",
+          "name": "Фрапе 300 мл",
+          "price": 75,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/687fc711-7d8e-4e2d-b397-fd3b582fa470_image.jpeg",
+          "categoryId": "category3",
+          "popular": false
+        },
+        {
+          "id": "196",
+          "name": "Фрапе 450 мл",
+          "price": 84,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/6dfa92ec-b866-4af8-b155-e06ada744462_image.jpeg",
+          "categoryId": "category3",
+          "popular": false
+        },
+        {
+          "id": "199",
+          "name": "Молочний шейк 300 мл",
+          "price": 72,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/ffd3d9fe-5f26-482e-a349-e6a7862ed33f_image.jpeg",
+          "categoryId": "category3",
+          "popular": false
+        },
+        {
+          "id": "200",
+          "name": "Молочний шейк 420 мл",
+          "price": 85,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/e4716a2f-d5dd-49aa-9c28-16d024b60a2d_image.jpeg",
+          "categoryId": "category3",
+          "popular": false
+        },
+        {
+          "id": "202",
+          "name": "Мохіто 300 мл",
+          "price": 72,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/304ec557-7812-44ba-92ab-e0e29e4da66d_image.jpeg",
+          "categoryId": "category3",
+          "popular": false
+        },
+        {
+          "id": "203",
+          "name": "Мохіто 450 мл",
+          "price": 82,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/edf83c63-b848-4a02-bf3d-3ab6da599466_image.jpeg",
+          "categoryId": "category3",
+          "popular": false
+        },
+        {
+          "id": "302",
+          "name": "Сік у асортименті",
+          "price": 52,
+          "currency": "₴",
+          "categoryId": "category3",
+          "popular": false
+        },
+        {
+          "id": "305",
+          "name": "Мохіто полуничний 300 мл",
+          "price": 75,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/50ca5da3-a9a3-4b5b-8454-b3d126fc596a_image.jpeg",
+          "categoryId": "category3",
+          "popular": false
+        },
+        {
+          "id": "306",
+          "name": "Мохіто полуничний 450 мл",
+          "price": 85,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/c1680690-7a53-4968-b05b-52b34bd9125c_image.jpeg",
+          "categoryId": "category3",
+          "popular": false
+        },
+        {
+          "id": "309",
+          "name": "Матча \"Тонік\"",
+          "price": 95,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/34831ea8-d98c-4546-adfa-9be63208639a_image.jpeg",
+          "categoryId": "category3",
+          "popular": false
+        },
+        {
+          "id": "313",
+          "name": "Еспресо \"Тонік\"",
+          "price": 90,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/e2f18225-3876-4f16-af42-55f90607c256_image.jpeg",
+          "categoryId": "category3",
+          "popular": false
+        },
+        {
+          "id": "372",
+          "name": "Какао \"Bubble gum\"",
+          "price": 80,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/54f7cd6d-2501-4db1-88b0-ef5b859be163_image.jpeg",
+          "categoryId": "category3",
+          "popular": false
+        },
+        {
+          "id": "470",
+          "name": "Фрапе \"Медовий поп-корн\"",
+          "price": 102,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/22f2c222-54be-40fa-860b-4028f10adcc8_image.jpeg",
+          "categoryId": "category3",
+          "popular": false
+        },
+        {
+          "id": "484",
+          "name": "Мега айс лате",
+          "price": 95,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/199ccaa6-b273-4ad1-a69d-052e9dde009f_image.jpeg",
+          "categoryId": "category3",
+          "popular": false
+        },
+        {
+          "id": "494",
+          "name": "Холодний чай",
+          "price": 55,
+          "currency": "₴",
+          "categoryId": "category3",
+          "popular": false
+        },
+        {
+          "id": "525",
+          "name": "Мега Холодний чай",
+          "price": 65,
+          "currency": "₴",
+          "categoryId": "category3",
+          "popular": false
+        },
+        {
+          "id": "529",
+          "name": "Мега \"Полуничний мохіто\"",
+          "price": 105,
+          "currency": "₴",
+          "categoryId": "category3",
+          "popular": false
+        },
+        {
+          "id": "485",
+          "name": "Мега Мохіто",
+          "price": 95,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/1d629945-b569-4ba6-bc94-3c26c2bfd6e5_image.jpeg",
+          "categoryId": "category3",
+          "popular": false
+        },
+        {
+          "id": "584",
+          "name": "Матча з малиновим пюре та соєвим молоком",
+          "price": 105,
+          "currency": "₴",
+          "categoryId": "category3",
+          "popular": false
+        },
+        {
+          "id": "197",
+          "name": "Глясе 250мл",
+          "price": 65,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/7a29c75b-0e91-4663-99fc-d63943bcc5d3_image.jpeg",
+          "categoryId": "category3",
+          "popular": false
+        },
+        {
+          "id": "198",
+          "name": "Глясе 450мл",
+          "price": 85,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/6f54771d-4574-46c3-9749-804f81641429_image.jpeg",
+          "categoryId": "category3",
+          "popular": false
+        },
+        {
+          "id": "651",
+          "name": "Полунична матча",
+          "price": 85,
+          "currency": "₴",
+          "categoryId": "category3",
+          "popular": false
+        },
+        {
+          "id": "668",
+          "name": "Рожевий фламінго 420 мл",
+          "price": 86,
+          "currency": "₴",
+          "categoryId": "category3",
+          "popular": false
+        },
+        {
+          "id": "669",
+          "name": "Айс какао 300 мл",
+          "price": 65,
+          "currency": "₴",
+          "categoryId": "category3",
+          "popular": false
+        },
+        {
+          "id": "670",
+          "name": "Айс какао 420 мл",
+          "price": 79,
+          "currency": "₴",
+          "categoryId": "category3",
+          "popular": false
+        }
+      ]
+    },
+    {
+      "id": "category35",
+      "name": "Фреш",
+      "slug": "category35",
+      "order": 6,
+      "items": [
+        {
+          "id": "238",
+          "name": "Фреш апельсиновий",
+          "price": 165,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/e1cf9a2f-4537-45ab-9977-cf79ce040d2c_image.jpeg",
+          "categoryId": "category35",
+          "popular": false
+        },
+        {
+          "id": "239",
+          "name": "Фреш грейпфрутовий",
+          "price": 165,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/fd137700-6f22-4f00-afd4-b60925bb782f_image.jpeg",
+          "categoryId": "category35",
+          "popular": false
+        }
+      ]
+    },
+    {
+      "id": "category30",
+      "name": "Молочний коктейль",
+      "slug": "category30",
+      "order": 7,
+      "items": [
+        {
+          "id": "220",
+          "name": "Молочний коктейль із бананом",
+          "price": 100,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/20bb3935-8f0f-47d0-bad1-1aa7b3dfb90d_image.jpeg",
+          "categoryId": "category30",
+          "popular": false
+        },
+        {
+          "id": "471",
+          "name": "Молочний коктейль \"Bounty\"",
+          "price": 92,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/6b3130a0-df56-4c86-a83a-3c627b520f25_image.jpeg",
+          "categoryId": "category30",
+          "popular": false
+        },
+        {
+          "id": "583",
+          "name": "Іce cream какао",
+          "price": 92,
+          "currency": "₴",
+          "categoryId": "category30",
+          "popular": false
+        }
+      ]
+    },
+    {
+      "id": "category28",
+      "name": "Лимонади",
+      "slug": "category28",
+      "order": 8,
+      "items": [
+        {
+          "id": "180",
+          "name": "Лимонад \"Блакитна лагуна\" 300 мл",
+          "price": 72,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/f7126265-8b25-4e93-b48e-1ae47d2a52ec_image.jpeg",
+          "categoryId": "category28",
+          "popular": false
+        },
+        {
+          "id": "181",
+          "name": "Лимонад \"Bubble gum\" 300 мл",
+          "price": 72,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/d729ea79-035a-44ef-9d30-c3828f872248_image.jpeg",
+          "categoryId": "category28",
+          "popular": false
+        },
+        {
+          "id": "182",
+          "name": "Лимонад ківі-яблуко 300 мл",
+          "price": 72,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/5fd161c9-919f-4d40-8b9e-5af289b8f808_image.jpeg",
+          "categoryId": "category28",
+          "popular": false
+        },
+        {
+          "id": "183",
+          "name": "Лимонад груша-імбир 300 мл",
+          "price": 72,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/742dd11d-4515-4226-8227-34ea8a4cf55d_image.jpeg",
+          "categoryId": "category28",
+          "popular": false
+        },
+        {
+          "id": "184",
+          "name": "Лимонад \"Bubble gum\" 420 мл",
+          "price": 80,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/48387cc5-2d41-4592-8089-a5b45069750a_image.jpeg",
+          "categoryId": "category28",
+          "popular": false
+        },
+        {
+          "id": "185",
+          "name": "Лимонад \"Блакитна лагуна\" 420 мл",
+          "price": 80,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/2e166b8d-5daf-49de-a821-a47027fc9880_image.jpeg",
+          "categoryId": "category28",
+          "popular": false
+        },
+        {
+          "id": "186",
+          "name": "Лимонад груша-імбир 420 мл",
+          "price": 80,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/0c8cb589-93b3-4841-ac98-3c36abba17a6_image.jpeg",
+          "categoryId": "category28",
+          "popular": false
+        },
+        {
+          "id": "187",
+          "name": "Лимонад ківі-яблуко 420 мл",
+          "price": 80,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/4a150e9e-f28c-48ac-a086-4d60aa492406_image.jpeg",
+          "categoryId": "category28",
+          "popular": false
+        },
+        {
+          "id": "242",
+          "name": "Джміль",
+          "price": 80,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/c2904069-df03-4050-adf1-93ca142d6b1c_image.jpeg",
+          "categoryId": "category28",
+          "popular": false
+        },
+        {
+          "id": "324",
+          "name": "Лимонад \"Крем сода\"",
+          "price": 80,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/de071d88-4de8-4d98-985a-2f7b06310345_image.jpeg",
+          "categoryId": "category28",
+          "popular": false
+        },
+        {
+          "id": "461",
+          "name": "Лимонад \"Черрі мікс\" 420 мл",
+          "price": 95,
+          "currency": "₴",
+          "categoryId": "category28",
+          "popular": false
+        },
+        {
+          "id": "462",
+          "name": "Лимонад \" Черрі мікс\" 300 мл",
+          "price": 80,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/cdd450dc-62b7-434f-8f03-865709f65b57_image.jpeg",
+          "categoryId": "category28",
+          "popular": false
+        },
+        {
+          "id": "513",
+          "name": "Мега \"Крем сода\" 600мл",
+          "price": 105,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/b8a1c197-3217-4cae-92c5-4b044879e943_image.jpeg",
+          "categoryId": "category28",
+          "popular": false
+        },
+        {
+          "id": "530",
+          "name": "Мега лимонад \"Ківі-яблуко\"",
+          "price": 102,
+          "currency": "₴",
+          "categoryId": "category28",
+          "popular": false
+        },
+        {
+          "id": "650",
+          "name": "Лимонад \"Аметист\"",
+          "price": 85,
+          "currency": "₴",
+          "categoryId": "category28",
+          "popular": false
+        },
+        {
+          "id": "652",
+          "name": "Еспресо гранат",
+          "price": 85,
+          "currency": "₴",
+          "categoryId": "category28",
+          "popular": false
+        }
+      ]
+    },
+    {
+      "id": "category27",
+      "name": "Bubble Tea",
+      "slug": "category27",
+      "order": 9,
+      "items": [
+        {
+          "id": "176",
+          "name": "Bubble Tea \"Milk\"",
+          "price": 105,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/6fb8e7c3-38f8-48a5-8d56-6c3f076fbd92_image.jpeg",
+          "categoryId": "category27",
+          "popular": false
+        },
+        {
+          "id": "177",
+          "name": "Bubble Tea \"Juice\"",
+          "price": 105,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/61b54a24-8ed8-4220-b660-90a99464e530_image.jpeg",
+          "categoryId": "category27",
+          "popular": false
+        },
+        {
+          "id": "178",
+          "name": "Bubble Tea \"Sprite\"",
+          "price": 105,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/3b055916-2030-4150-b03d-7d965bcb46cb_image.jpeg",
+          "categoryId": "category27",
+          "popular": false
+        },
+        {
+          "id": "179",
+          "name": "Bubble Tea \"Cocoa\"",
+          "price": 105,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/339920f9-08a6-4e4d-8eff-14bce8ffa4eb_image.jpeg",
+          "categoryId": "category27",
+          "popular": false
+        },
+        {
+          "id": "237",
+          "name": "Bubble Tea \"Match\"",
+          "price": 105,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/7b9743d1-155f-47f3-9098-83265ec77978_image.jpeg",
+          "categoryId": "category27",
+          "popular": false
+        }
+      ]
+    },
+    {
+      "id": "category4",
+      "name": "Упаковка із собою",
+      "slug": "category4",
+      "order": 10,
+      "items": [
+        {
+          "id": "6",
+          "name": "Пакет із собою (великий)",
+          "price": 12,
+          "currency": "₴",
+          "categoryId": "category4",
+          "popular": false
+        },
+        {
+          "id": "172",
+          "name": "Бокс для салату (крафтовий)",
+          "price": 14,
+          "currency": "₴",
+          "categoryId": "category4",
+          "popular": false
+        },
+        {
+          "id": "173",
+          "name": "Пакет із собою (маленький)",
+          "price": 8,
+          "currency": "₴",
+          "categoryId": "category4",
+          "popular": false
+        },
+        {
+          "id": "174",
+          "name": "Коробка для піци",
+          "price": 18,
+          "currency": "₴",
+          "categoryId": "category4",
+          "popular": false
+        },
+        {
+          "id": "175",
+          "name": "Коробка для торта велика",
+          "price": 70,
+          "currency": "₴",
+          "categoryId": "category4",
+          "popular": false
+        },
+        {
+          "id": "304",
+          "name": "Бокс",
+          "price": 12,
+          "currency": "₴",
+          "categoryId": "category4",
+          "popular": false
+        },
+        {
+          "id": "363",
+          "name": "Коробка для піци велика",
+          "price": 24,
+          "currency": "₴",
+          "categoryId": "category4",
+          "popular": false
+        },
+        {
+          "id": "440",
+          "name": "Упаковка для бургера",
+          "price": 12,
+          "currency": "₴",
+          "categoryId": "category4",
+          "popular": false
+        },
+        {
+          "id": "473",
+          "name": "Коробка для паски з віконцем",
+          "price": 35,
+          "currency": "₴",
+          "categoryId": "category4",
+          "popular": false
+        },
+        {
+          "id": "514",
+          "name": "Паперовий стакан 140 мл (для морозива)",
+          "price": 4,
+          "currency": "₴",
+          "categoryId": "category4",
+          "popular": false
+        },
+        {
+          "id": "553",
+          "name": "Топер в торт",
+          "price": 30,
+          "currency": "₴",
+          "categoryId": "category4",
+          "popular": false
+        }
+      ]
+    },
+    {
+      "id": "category5",
+      "name": "Кондитерські вироби",
+      "slug": "category5",
+      "order": 11,
+      "items": [
+        {
+          "id": "86",
+          "name": "Трубочка",
+          "price": 49,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/bcee1ffe-fc22-4984-995a-13605039ff56_image.jpeg",
+          "categoryId": "category5",
+          "popular": false
+        },
+        {
+          "id": "296",
+          "name": "Корзинка",
+          "price": 69,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/fe79baf6-381a-4135-aa69-b24e3aabfc4f_image.jpeg",
+          "categoryId": "category5",
+          "popular": false
+        },
+        {
+          "id": "401",
+          "name": "Дубайський шоколад",
+          "price": 140,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/ac34f986-69b9-424c-94d3-12fc24594926_image.jpeg",
+          "categoryId": "category5",
+          "popular": false
+        },
+        {
+          "id": "435",
+          "name": "Кекс \"Лимонний\" цілий",
+          "price": 378,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/b4c78030-91fc-4ca6-9dcb-b6380d3eb81c_image.jpeg",
+          "categoryId": "category5",
+          "popular": false
+        },
+        {
+          "id": "436",
+          "name": "Кекс \"Лимонний\"",
+          "price": 78,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/fa4a58e7-eb5a-4b64-bbf4-a95899d36366_image.jpeg",
+          "categoryId": "category5",
+          "popular": false
+        },
+        {
+          "id": "445",
+          "name": "Кекс \"Шоколадно-винний\"",
+          "price": 89,
+          "currency": "₴",
+          "categoryId": "category5",
+          "popular": false
+        },
+        {
+          "id": "447",
+          "name": "Дубайський шоколад MINI",
+          "price": 94,
+          "currency": "₴",
+          "categoryId": "category5",
+          "popular": false
+        },
+        {
+          "id": "449",
+          "name": "Дубайський шоколад MAXI",
+          "price": 190,
+          "currency": "₴",
+          "categoryId": "category5",
+          "popular": false
+        },
+        {
+          "id": "459",
+          "name": "Шоколад ЛОКОНИ АНГЕЛА",
+          "price": 150,
+          "currency": "₴",
+          "categoryId": "category5",
+          "popular": false
+        },
+        {
+          "id": "463",
+          "name": "Дубайський шоколад ПЛИТКА",
+          "price": 200,
+          "currency": "₴",
+          "categoryId": "category5",
+          "popular": false
+        },
+        {
+          "id": "467",
+          "name": "NY cookies зі смаком халви",
+          "price": 49,
+          "currency": "₴",
+          "categoryId": "category5",
+          "popular": false
+        },
+        {
+          "id": "468",
+          "name": "NY cookies шоколадно-апельсинові",
+          "price": 56,
+          "currency": "₴",
+          "categoryId": "category5",
+          "popular": false
+        },
+        {
+          "id": "469",
+          "name": "NY cookies SNIKERS",
+          "price": 59,
+          "currency": "₴",
+          "categoryId": "category5",
+          "popular": false
+        },
+        {
+          "id": "487",
+          "name": "Дубайський шоколад ПЛИТКА міні",
+          "price": 120,
+          "currency": "₴",
+          "categoryId": "category5",
+          "popular": false
+        },
+        {
+          "id": "556",
+          "name": "Фінік королівський",
+          "price": 49,
+          "currency": "₴",
+          "categoryId": "category5",
+          "popular": false
+        },
+        {
+          "id": "615",
+          "name": "Сирники (порція 3шт)",
+          "price": 89,
+          "currency": "₴",
+          "categoryId": "category5",
+          "popular": false
+        },
+        {
+          "id": "561",
+          "name": "Кекс \"Пряний гарбуз\"",
+          "price": 69,
+          "currency": "₴",
+          "categoryId": "category5",
+          "popular": false
+        },
+        {
+          "id": "500",
+          "name": "Кекс \"Горіховий з журавлиною\"",
+          "price": 116,
+          "currency": "₴",
+          "categoryId": "category5",
+          "popular": false
+        },
+        {
+          "id": "648",
+          "name": "Макарон в асортименті КЦ",
+          "price": 80,
+          "currency": "₴",
+          "categoryId": "category5",
+          "popular": false
+        }
+      ]
+    },
+    {
+      "id": "category45",
+      "name": "Галета",
+      "slug": "category45",
+      "order": 12,
+      "items": [
+        {
+          "id": "572",
+          "name": "Галета зі сливою",
+          "price": 76,
+          "currency": "₴",
+          "categoryId": "category45",
+          "popular": false
+        },
+        {
+          "id": "573",
+          "name": "Галета з інжиром",
+          "price": 95,
+          "currency": "₴",
+          "categoryId": "category45",
+          "popular": false
+        },
+        {
+          "id": "590",
+          "name": "Галета груша-дорблю",
+          "price": 79,
+          "currency": "₴",
+          "categoryId": "category45",
+          "popular": false
+        },
+        {
+          "id": "678",
+          "name": "Гелета Полуниця",
+          "price": 0,
+          "currency": "₴",
+          "categoryId": "category45",
+          "popular": false
+        },
+        {
+          "id": "679",
+          "name": "Галета Полуниця",
+          "price": 84,
+          "currency": "₴",
+          "categoryId": "category45",
+          "popular": false
+        },
+        {
+          "id": "693",
+          "name": "Галета Черешня",
+          "price": 84,
+          "currency": "₴",
+          "categoryId": "category45",
+          "popular": false
+        },
+        {
+          "id": "697",
+          "name": "Галета Абрикос",
+          "price": 84,
+          "currency": "₴",
+          "categoryId": "category45",
+          "popular": false
+        }
+      ]
+    },
+    {
+      "id": "category44",
+      "name": "Інші вироби",
+      "slug": "category44",
+      "order": 13,
+      "items": [
+        {
+          "id": "588",
+          "name": "Цукерки handmade",
+          "price": 79,
+          "currency": "₴",
+          "categoryId": "category44",
+          "popular": false
+        },
+        {
+          "id": "592",
+          "name": "Бублик з маком",
+          "price": 29,
+          "currency": "₴",
+          "categoryId": "category44",
+          "popular": false
+        },
+        {
+          "id": "587",
+          "name": "Творожна запіканка",
+          "price": 69,
+          "currency": "₴",
+          "categoryId": "category44",
+          "popular": false
+        },
+        {
+          "id": "582",
+          "name": "Горішок з нутеллою",
+          "price": 35,
+          "currency": "₴",
+          "categoryId": "category44",
+          "popular": false
+        },
+        {
+          "id": "554",
+          "name": "Цукерка трюфель \"Тирамісу\"",
+          "price": 56,
+          "currency": "₴",
+          "categoryId": "category44",
+          "popular": false
+        },
+        {
+          "id": "490",
+          "name": "Тирамісу \"Полуничний\"",
+          "price": 149,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/199c2946-aabc-4686-ac08-5dc3b120fe58_image.jpeg",
+          "categoryId": "category44",
+          "popular": false
+        },
+        {
+          "id": "396",
+          "name": "Десерт \"Тирамісу\"",
+          "price": 139,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/439eb7da-f791-4d90-acea-f88cbacf159d_image.jpeg",
+          "categoryId": "category44",
+          "popular": false
+        },
+        {
+          "id": "7",
+          "name": "Пончик (DONUT) в асортименті",
+          "price": 58,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/c958e89b-abb4-435e-94b1-a30f2588af37_image.jpeg",
+          "categoryId": "category44",
+          "popular": false
+        },
+        {
+          "id": "337",
+          "name": "Горішок зі згущеним молоком",
+          "price": 29,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/44c361d9-9b0a-4341-b13e-8fe3c96be272_image.jpeg",
+          "categoryId": "category44",
+          "popular": false
+        },
+        {
+          "id": "335",
+          "name": "Чурос із кремом",
+          "price": 24,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/9200745b-48db-41f9-8206-0fb624ab3e0e_image.jpeg",
+          "categoryId": "category44",
+          "popular": false
+        },
+        {
+          "id": "575",
+          "name": "Бісквіт з яблуком",
+          "price": 49,
+          "currency": "₴",
+          "image": "https://img.postershop.me/67ed23d6e361a76a3c183366/4a4d0d79-eddc-49e6-86c7-eba1259d1994-image.jpeg",
+          "categoryId": "category44",
+          "popular": false
+        },
+        {
+          "id": "394",
+          "name": "Торт \"Мурашник з горіхом\"",
+          "price": 82,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/996823ea-fd57-4e47-b396-c8b0563899cc_image.jpeg",
+          "categoryId": "category44",
+          "popular": false
+        },
+        {
+          "id": "388",
+          "name": "Торт \"Графський з вишнею\"",
+          "price": 139,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/599f24c2-3ed3-4928-bbad-2f48faa39a6f_image.jpeg",
+          "categoryId": "category44",
+          "popular": false
+        }
+      ]
+    },
+    {
+      "id": "category41",
+      "name": "Печиво",
+      "slug": "category41",
+      "order": 14,
+      "items": [
+        {
+          "id": "605",
+          "name": "Мадлен Апельсинка",
+          "price": 35,
+          "currency": "₴",
+          "categoryId": "category41",
+          "popular": false
+        },
+        {
+          "id": "606",
+          "name": "Мадлен Полуниця в вершках",
+          "price": 35,
+          "currency": "₴",
+          "categoryId": "category41",
+          "popular": false
+        },
+        {
+          "id": "607",
+          "name": "Мадлен Вишня в шоколаді",
+          "price": 35,
+          "currency": "₴",
+          "categoryId": "category41",
+          "popular": false
+        }
+      ]
+    },
+    {
+      "id": "category40",
+      "name": "Пряник",
+      "slug": "category40",
+      "order": 15,
+      "items": [
+        {
+          "id": "427",
+          "name": "ПРЯНИК",
+          "price": 30,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/7d701950-cf41-4d59-bfbb-0bd60aee1afe_image.jpeg",
+          "categoryId": "category40",
+          "popular": false
+        }
+      ]
+    },
+    {
+      "id": "category39",
+      "name": "Шейк",
+      "slug": "category39",
+      "order": 16,
+      "items": [
+        {
+          "id": "297",
+          "name": "Шейк Абрикосовий",
+          "price": 85,
+          "currency": "₴",
+          "categoryId": "category39",
+          "popular": false
+        },
+        {
+          "id": "298",
+          "name": "Шейк Малиновий",
+          "price": 105,
+          "currency": "₴",
+          "categoryId": "category39",
+          "popular": false
+        },
+        {
+          "id": "299",
+          "name": "Шейк Вишня/кокос",
+          "price": 105,
+          "currency": "₴",
+          "categoryId": "category39",
+          "popular": false
+        },
+        {
+          "id": "301",
+          "name": "Шейк \"Чорничний йогурт\"",
+          "price": 96,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/9cc163ec-b016-448e-88b8-5716289c99d0_image.jpeg",
+          "categoryId": "category39",
+          "popular": false
+        }
+      ]
+    },
+    {
+      "id": "category38",
+      "name": "Меренговий рулет",
+      "slug": "category38",
+      "order": 17,
+      "items": [
+        {
+          "id": "85",
+          "name": "Меренговий рулет \"Карамельне яблуко\"",
+          "price": 92,
+          "currency": "₴",
+          "categoryId": "category38",
+          "popular": false
+        },
+        {
+          "id": "286",
+          "name": "Меренговий рулет \"Полуниця з вершками\"",
+          "price": 86,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/b1d69f14-89ac-49db-b5a9-e0ca57013a37_image.jpeg",
+          "categoryId": "category38",
+          "popular": false
+        },
+        {
+          "id": "689",
+          "name": "Меренговий рулет Вишня",
+          "price": 86,
+          "currency": "₴",
+          "categoryId": "category38",
+          "popular": false
+        }
+      ]
+    },
+    {
+      "id": "category37",
+      "name": "Желе",
+      "slug": "category37",
+      "order": 18,
+      "items": [
+        {
+          "id": "289",
+          "name": "Желе \"Бабл гам-полуниця\"",
+          "price": 58,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/0d7aafdc-6647-43ca-9f41-f4be0a3631f0_image.jpeg",
+          "categoryId": "category37",
+          "popular": false
+        },
+        {
+          "id": "290",
+          "name": "Желе \"Лайм-солодка м'ята\"",
+          "price": 58,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/7588e063-f37d-4a6c-88bf-6976c1c1b640_image.jpeg",
+          "categoryId": "category37",
+          "popular": false
+        },
+        {
+          "id": "291",
+          "name": "Желе \"Шоколад-вишня\"\"",
+          "price": 58,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/8c2b6e93-d2c2-4e61-b947-2e5c21f4515f_image.jpeg",
+          "categoryId": "category37",
+          "popular": false
+        },
+        {
+          "id": "515",
+          "name": "Крем-брюле карамельний",
+          "price": 88,
+          "currency": "₴",
+          "categoryId": "category37",
+          "popular": false
+        },
+        {
+          "id": "516",
+          "name": "Крем-брюле класичний",
+          "price": 88,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/2a57935a-cd2b-4213-9b6a-f78a292caea4_image.jpeg",
+          "categoryId": "category37",
+          "popular": false
+        },
+        {
+          "id": "521",
+          "name": "Крем-брюле \"Дор Блю\"",
+          "price": 89,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/415f235a-1708-484d-b10b-52e7c75845b4_image.jpeg",
+          "categoryId": "category37",
+          "popular": false
+        }
+      ]
+    },
+    {
+      "id": "category24",
+      "name": "Шу",
+      "slug": "category24",
+      "order": 19,
+      "items": [
+        {
+          "id": "162",
+          "name": "Шу \"Ваниль-малина\"",
+          "price": 65,
+          "currency": "₴",
+          "categoryId": "category24",
+          "popular": false
+        },
+        {
+          "id": "163",
+          "name": "Шу \"Карамель\"",
+          "price": 65,
+          "currency": "₴",
+          "categoryId": "category24",
+          "popular": false
+        },
+        {
+          "id": "164",
+          "name": "Шу \"Шоколадне праліне\"",
+          "price": 65,
+          "currency": "₴",
+          "categoryId": "category24",
+          "popular": false
+        }
+      ]
+    },
+    {
+      "id": "category16",
+      "name": "Тістечко",
+      "slug": "category16",
+      "order": 20,
+      "items": [
+        {
+          "id": "124",
+          "name": "Ескімо",
+          "price": 79,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/4dea439b-20a1-4a5e-b064-2ba3683cb541_image.jpeg",
+          "categoryId": "category16",
+          "popular": false
+        },
+        {
+          "id": "128",
+          "name": "Мусове тістечко \"Полуниця\"",
+          "price": 69,
+          "currency": "₴",
+          "categoryId": "category16",
+          "popular": false
+        },
+        {
+          "id": "130",
+          "name": "Павлова",
+          "price": 69,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/a7b2dfe6-1ba1-4e62-a072-2f11495e9801_image.jpeg",
+          "categoryId": "category16",
+          "popular": false
+        },
+        {
+          "id": "280",
+          "name": "Львівський сирник",
+          "price": 136,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/9759d002-8030-465d-a6e3-2a777753a096_image.jpeg",
+          "categoryId": "category16",
+          "popular": false
+        },
+        {
+          "id": "281",
+          "name": "Мусове тістечко \"Бабл-гам/полуниця\"",
+          "price": 65,
+          "currency": "₴",
+          "categoryId": "category16",
+          "popular": false
+        },
+        {
+          "id": "282",
+          "name": "Тістечко \"Каченя\"",
+          "price": 89,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/9a3fc8d2-eed6-4cb6-8145-10ef20b5f6e9_image.jpeg",
+          "categoryId": "category16",
+          "popular": false
+        },
+        {
+          "id": "283",
+          "name": "Тістечко \"Кролик\"",
+          "price": 65,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/f0ad37ed-d24c-4a83-9c84-4564e2e0dafc_image.jpeg",
+          "categoryId": "category16",
+          "popular": false
+        },
+        {
+          "id": "284",
+          "name": "Тістечко \"Сир\"",
+          "price": 79,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/8a55f0aa-6123-4714-81f7-04b34b76ee95_image.jpeg",
+          "categoryId": "category16",
+          "popular": false
+        },
+        {
+          "id": "285",
+          "name": "Тістечко \"Яблуко\"",
+          "price": 79,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/edccbd1a-7537-4d15-9c39-dfbf0ca2d485_image.jpeg",
+          "categoryId": "category16",
+          "popular": false
+        },
+        {
+          "id": "320",
+          "name": "Тістечко АМЕЛІ",
+          "price": 99,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/f8ae3c72-090d-488a-830c-a2c3d4eb78f6_image.jpeg",
+          "categoryId": "category16",
+          "popular": false
+        },
+        {
+          "id": "321",
+          "name": "Тістечко ВЕДМЕДИК",
+          "price": 65,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/64d6ca2b-da49-4aae-8377-e02741dd3788_image.jpeg",
+          "categoryId": "category16",
+          "popular": false
+        },
+        {
+          "id": "338",
+          "name": "Горішок з Дор Блю",
+          "price": 29,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/efd95e2a-6420-4810-a65a-aa2a9c6c89fe_image.jpeg",
+          "categoryId": "category16",
+          "popular": false
+        },
+        {
+          "id": "339",
+          "name": "Тістечко МАНГО",
+          "price": 89,
+          "currency": "₴",
+          "categoryId": "category16",
+          "popular": false
+        },
+        {
+          "id": "348",
+          "name": "Тістечко БУЛЬДОГ",
+          "price": 85,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/87a7d4b3-38dd-4d41-92f3-32bb8895343c_image.jpeg",
+          "categoryId": "category16",
+          "popular": false
+        },
+        {
+          "id": "383",
+          "name": "Тістечко ЛИМОН",
+          "price": 79,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/c9360c90-a1f5-484a-89f8-7d6b04ecf418_image.jpeg",
+          "categoryId": "category16",
+          "popular": false
+        },
+        {
+          "id": "403",
+          "name": "Тістечко Фісташка",
+          "price": 112,
+          "currency": "₴",
+          "categoryId": "category16",
+          "popular": false
+        },
+        {
+          "id": "412",
+          "name": "Тістечко Персикове кремю",
+          "price": 96,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/8877b6ac-9510-4ae3-b776-44f15dc9cb5b_image.jpeg",
+          "categoryId": "category16",
+          "popular": false
+        },
+        {
+          "id": "423",
+          "name": "Тістечко ВИШНЯ",
+          "price": 79,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/f1bb3890-cf7b-4f43-a383-d6f608b55a7b_image.jpeg",
+          "categoryId": "category16",
+          "popular": false
+        },
+        {
+          "id": "424",
+          "name": "Тістечко ЛАЙМ-АПЕЛЬСИН",
+          "price": 79,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/441fd088-a099-4a71-8383-c21b278563b1_image.jpeg",
+          "categoryId": "category16",
+          "popular": false
+        },
+        {
+          "id": "425",
+          "name": "Тістечко ЧОРНИЦЯ-ЛАВАНДА",
+          "price": 79,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/40a1b652-0fd8-4b59-8777-c358e8d40b08_image.jpeg",
+          "categoryId": "category16",
+          "popular": false
+        },
+        {
+          "id": "429",
+          "name": "Тістечко Шоколад Дор блю",
+          "price": 95,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/d0fbd437-9ca4-40b6-ac7d-f1fb5cde1d66_image.jpeg",
+          "categoryId": "category16",
+          "popular": false
+        },
+        {
+          "id": "451",
+          "name": "Тістечко СЕРЦЕ з ПОЛУНИЦЕЮ",
+          "price": 79,
+          "currency": "₴",
+          "categoryId": "category16",
+          "popular": false
+        },
+        {
+          "id": "452",
+          "name": "Тістечко СЕРЦЕ з ДИНЕЮ",
+          "price": 75,
+          "currency": "₴",
+          "categoryId": "category16",
+          "popular": false
+        },
+        {
+          "id": "492",
+          "name": "Тістечко АМАРЕНА",
+          "price": 85,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/025d0c80-3111-457c-acff-03970b7ad187_image.jpeg",
+          "categoryId": "category16",
+          "popular": false
+        },
+        {
+          "id": "502",
+          "name": "Тістечко ВИШНЯ В ШОКОЛАДІ",
+          "price": 95,
+          "currency": "₴",
+          "categoryId": "category16",
+          "popular": false
+        },
+        {
+          "id": "533",
+          "name": "Мусове тістечко \"ПЕРСИК\"",
+          "price": 85,
+          "currency": "₴",
+          "categoryId": "category16",
+          "popular": false
+        },
+        {
+          "id": "560",
+          "name": "Мафін гарбузовий",
+          "price": 59,
+          "currency": "₴",
+          "categoryId": "category16",
+          "popular": false
+        },
+        {
+          "id": "596",
+          "name": "Тістечко КАРТОПЛЯ ШОКОЛАДНА",
+          "price": 45,
+          "currency": "₴",
+          "categoryId": "category16",
+          "popular": false
+        },
+        {
+          "id": "597",
+          "name": "Тістечко КАРТОПЛЯ ФІСТАШКОВА",
+          "price": 45,
+          "currency": "₴",
+          "categoryId": "category16",
+          "popular": false
+        },
+        {
+          "id": "598",
+          "name": "Тістечко КАРТОПЛЯ КАРАМЕЛЬНА",
+          "price": 45,
+          "currency": "₴",
+          "categoryId": "category16",
+          "popular": false
+        },
+        {
+          "id": "604",
+          "name": "Тістечко КАРТОПЛЯ КОКОСОВА",
+          "price": 45,
+          "currency": "₴",
+          "categoryId": "category16",
+          "popular": false
+        },
+        {
+          "id": "623",
+          "name": "Сирне кільце",
+          "price": 65,
+          "currency": "₴",
+          "categoryId": "category16",
+          "popular": false
+        },
+        {
+          "id": "643",
+          "name": "Тістечко КАРТОПЛЯ ПОЛУНИЧНА",
+          "price": 45,
+          "currency": "₴",
+          "categoryId": "category16",
+          "popular": false
+        },
+        {
+          "id": "654",
+          "name": "Тістечко МУСОВЕ МАНГО",
+          "price": 79,
+          "currency": "₴",
+          "categoryId": "category16",
+          "popular": false
+        },
+        {
+          "id": "655",
+          "name": "Тістечко СЕРЦЕ із СМОРОДИНОЮ",
+          "price": 79,
+          "currency": "₴",
+          "categoryId": "category16",
+          "popular": false
+        },
+        {
+          "id": "660",
+          "name": "Мафін яблучний",
+          "price": 59,
+          "currency": "₴",
+          "categoryId": "category16",
+          "popular": false
+        },
+        {
+          "id": "667",
+          "name": "Мусове тістечко \"ПОЛУНИЦЯ-М\"ЯТА\"",
+          "price": 79,
+          "currency": "₴",
+          "categoryId": "category16",
+          "popular": false
+        },
+        {
+          "id": "672",
+          "name": "Пахлава",
+          "price": 54,
+          "currency": "₴",
+          "categoryId": "category16",
+          "popular": false
+        },
+        {
+          "id": "674",
+          "name": "Полуничний сендвіч",
+          "price": 49,
+          "currency": "₴",
+          "categoryId": "category16",
+          "popular": false
+        },
+        {
+          "id": "681",
+          "name": "Каннолі \"Шоколад\"",
+          "price": 44,
+          "currency": "₴",
+          "categoryId": "category16",
+          "popular": false
+        },
+        {
+          "id": "682",
+          "name": "Каннолі \"Дор Блю\"",
+          "price": 44,
+          "currency": "₴",
+          "categoryId": "category16",
+          "popular": false
+        },
+        {
+          "id": "683",
+          "name": "Каннолі \"Фісташка\"",
+          "price": 44,
+          "currency": "₴",
+          "categoryId": "category16",
+          "popular": false
+        }
+      ]
+    },
+    {
+      "id": "category15",
+      "name": "Капкейк",
+      "slug": "category15",
+      "order": 21,
+      "items": [
+        {
+          "id": "125",
+          "name": "Капкейк \"Апельсин\"",
+          "price": 69,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/d6249bed-4ab1-4410-8fcf-ad7cd5659f5b_image.jpeg",
+          "categoryId": "category15",
+          "popular": false
+        },
+        {
+          "id": "126",
+          "name": "Капкейк \"Червоний оксамит\"",
+          "price": 69,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/77536ce3-750f-468c-8cf1-120a3c1141e3_image.jpeg",
+          "categoryId": "category15",
+          "popular": false
+        },
+        {
+          "id": "127",
+          "name": "Капкейк \"Шоколадно-вишневий\"",
+          "price": 69,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/61b1c291-76b9-427b-a53c-b35800e03af6_image.jpeg",
+          "categoryId": "category15",
+          "popular": false
+        },
+        {
+          "id": "395",
+          "name": "Капкейк Яблучно-горіховий з карамелізованим гарбузом",
+          "price": 59,
+          "currency": "₴",
+          "categoryId": "category15",
+          "popular": false
+        },
+        {
+          "id": "495",
+          "name": "Капкейк \"Лимонний з персиком\"",
+          "price": 59,
+          "currency": "₴",
+          "categoryId": "category15",
+          "popular": false
+        },
+        {
+          "id": "496",
+          "name": "Капкейк \"Дубайський\"",
+          "price": 69,
+          "currency": "₴",
+          "categoryId": "category15",
+          "popular": false
+        },
+        {
+          "id": "497",
+          "name": "Капкейк \"Карамельний\"",
+          "price": 59,
+          "currency": "₴",
+          "categoryId": "category15",
+          "popular": false
+        }
+      ]
+    },
+    {
+      "id": "category14",
+      "name": "Еклери",
+      "slug": "category14",
+      "order": 22,
+      "items": [
+        {
+          "id": "116",
+          "name": "Еклер \"Ванільна полуниця\"",
+          "price": 75,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/43da699e-9870-4945-bf86-916c6d1e3f84_image.jpeg",
+          "categoryId": "category14",
+          "popular": false
+        },
+        {
+          "id": "117",
+          "name": "Еклер \"Карамельний\"",
+          "price": 75,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/7662aa06-bdd0-4c89-8672-fbed404b364b_image.jpeg",
+          "categoryId": "category14",
+          "popular": false
+        },
+        {
+          "id": "118",
+          "name": "Еклер \"Пломбір\"",
+          "price": 79,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/f7a53d7a-ae75-4e85-858b-c9d38bc2fe25_image.jpeg",
+          "categoryId": "category14",
+          "popular": false
+        },
+        {
+          "id": "119",
+          "name": "Еклер \"Чорниця\"",
+          "price": 79,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/30d3d8da-692c-4186-8259-2832c14fcdb3_image.jpeg",
+          "categoryId": "category14",
+          "popular": false
+        },
+        {
+          "id": "120",
+          "name": "Еклер \"Шоколадний\"",
+          "price": 72,
+          "currency": "₴",
+          "categoryId": "category14",
+          "popular": false
+        },
+        {
+          "id": "489",
+          "name": "Еклер \"Фісташка-малина\"",
+          "price": 82,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/445b8ecd-b9c8-4e5c-ad56-ef3caaab749b_image.jpeg",
+          "categoryId": "category14",
+          "popular": false
+        },
+        {
+          "id": "665",
+          "name": "Еклер \"Полуничний\"",
+          "price": 49,
+          "currency": "₴",
+          "categoryId": "category14",
+          "popular": false
+        }
+      ]
+    },
+    {
+      "id": "category13",
+      "name": "Чизкейк",
+      "slug": "category13",
+      "order": 23,
+      "items": [
+        {
+          "id": "110",
+          "name": "Чизкейк \"Класичний Нью-Йорк\"",
+          "price": 119,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/d62c1a2b-ecb6-4210-9f76-f32efb246609_image.jpeg",
+          "categoryId": "category13",
+          "popular": false
+        },
+        {
+          "id": "113",
+          "name": "Чизкейк \"Малина\"",
+          "price": 95,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/3ca30008-73a7-4255-aa3b-3d1dc7ad3898_image.jpeg",
+          "categoryId": "category13",
+          "popular": false
+        },
+        {
+          "id": "114",
+          "name": "Чизкейк \"Манго\"",
+          "price": 95,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/057d1f15-d6bf-4565-aa0f-1920ffa4d34d_image.jpeg",
+          "categoryId": "category13",
+          "popular": false
+        },
+        {
+          "id": "158",
+          "name": "Чизкейк \"Персик\"",
+          "price": 89,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/c754fab4-47aa-412f-87f0-02b8c29a449a_image.jpeg",
+          "categoryId": "category13",
+          "popular": false
+        },
+        {
+          "id": "159",
+          "name": "Чизкейк \"Полуниця\"",
+          "price": 95,
+          "currency": "₴",
+          "categoryId": "category13",
+          "popular": false
+        },
+        {
+          "id": "277",
+          "name": "Чизкейк \"Абрикос\"",
+          "price": 76,
+          "currency": "₴",
+          "categoryId": "category13",
+          "popular": false
+        },
+        {
+          "id": "342",
+          "name": "Чизкейк \"Тутті Фрутті\"",
+          "price": 99,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/11db7996-0ad2-4eba-8e2c-e7052ccffa5e_image.jpeg",
+          "categoryId": "category13",
+          "popular": false
+        },
+        {
+          "id": "343",
+          "name": "Чизкейк \"Малиновий мікс\"",
+          "price": 99,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/c436fa30-bb0a-4b89-ad28-4377b18c7e9c_image.jpeg",
+          "categoryId": "category13",
+          "popular": false
+        },
+        {
+          "id": "344",
+          "name": "Чизкейк \"Карамельний щербет\"",
+          "price": 99,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/4806bfef-22ef-4ee0-b46f-a22dda2217b7_image.jpeg",
+          "categoryId": "category13",
+          "popular": false
+        },
+        {
+          "id": "411",
+          "name": "Чизкейк \"Баскський\"",
+          "price": 125,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/c782f510-d56a-4774-97ae-edc2f54ad00c_image.jpeg",
+          "categoryId": "category13",
+          "popular": false
+        },
+        {
+          "id": "444",
+          "name": "Чизкейк \"Баскський шоколадний\"",
+          "price": 135,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/14f719d0-909d-442e-820d-eefc1ee61906_image.jpeg",
+          "categoryId": "category13",
+          "popular": false
+        },
+        {
+          "id": "453",
+          "name": "Чизкейк \"Баскський фісташковий\"",
+          "price": 135,
+          "currency": "₴",
+          "categoryId": "category13",
+          "popular": false
+        },
+        {
+          "id": "456",
+          "name": "Чизкейк \"Карамельний Нью Йорк\"",
+          "price": 135,
+          "currency": "₴",
+          "categoryId": "category13",
+          "popular": false
+        },
+        {
+          "id": "480",
+          "name": "Чизкейк Нью-Йорк  \"Полуничний\"",
+          "price": 115,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/f14ca731-d4f0-44ad-8a9d-187c7e99c4ca_image.jpeg",
+          "categoryId": "category13",
+          "popular": false
+        },
+        {
+          "id": "491",
+          "name": "Чизкейк \"Баскський карамельний\"",
+          "price": 125,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/b1780a8e-abe6-4c63-9a11-54ab400a1456_image.jpeg",
+          "categoryId": "category13",
+          "popular": false
+        },
+        {
+          "id": "522",
+          "name": "Чизкейк  Нью-Йорк \"Персик\"",
+          "price": 135,
+          "currency": "₴",
+          "categoryId": "category13",
+          "popular": false
+        },
+        {
+          "id": "663",
+          "name": "Чизкейк \"Ягідний\"",
+          "price": 109,
+          "currency": "₴",
+          "categoryId": "category13",
+          "popular": false
+        },
+        {
+          "id": "673",
+          "name": "Чизкейк \"Баскський Полуничний\"",
+          "price": 125,
+          "currency": "₴",
+          "categoryId": "category13",
+          "popular": false
+        }
+      ]
+    },
+    {
+      "id": "category12",
+      "name": "Трайфл",
+      "slug": "category12",
+      "order": 24,
+      "items": [
+        {
+          "id": "104",
+          "name": "Трайфл \"Полуничний\"",
+          "price": 85,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/6334287d-e67f-474b-a65d-94735adc7ac7_image.jpeg",
+          "categoryId": "category12",
+          "popular": false
+        },
+        {
+          "id": "105",
+          "name": "Трайфл \"Снікерс\"",
+          "price": 75,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/86fa682c-1d8f-497a-a975-6ab783ef2875_image.jpeg",
+          "categoryId": "category12",
+          "popular": false
+        },
+        {
+          "id": "106",
+          "name": "Трайфл \"Твікс\"",
+          "price": 85,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/15790c60-f786-43aa-b719-4ed5c704a71f_image.jpeg",
+          "categoryId": "category12",
+          "popular": false
+        },
+        {
+          "id": "386",
+          "name": "Трайфл \"Вишня в шоколаді\"",
+          "price": 89,
+          "currency": "₴",
+          "categoryId": "category12",
+          "popular": false
+        },
+        {
+          "id": "499",
+          "name": "ПАНАКОТА",
+          "price": 85,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/0423a434-e0a3-4b51-9fe5-468e3650e3c7_image.jpeg",
+          "categoryId": "category12",
+          "popular": false
+        },
+        {
+          "id": "591",
+          "name": "Трайфл \"Карамельний банан\"",
+          "price": 85,
+          "currency": "₴",
+          "categoryId": "category12",
+          "popular": false
+        },
+        {
+          "id": "593",
+          "name": "Трайфл \"Мілка\"",
+          "price": 85,
+          "currency": "₴",
+          "categoryId": "category12",
+          "popular": false
+        },
+        {
+          "id": "603",
+          "name": "Трайфл \"Фісташковий\"",
+          "price": 89,
+          "currency": "₴",
+          "categoryId": "category12",
+          "popular": false
+        },
+        {
+          "id": "659",
+          "name": "Трайфл \"Тірамісу\"",
+          "price": 64,
+          "currency": "₴",
+          "categoryId": "category12",
+          "popular": false
+        }
+      ]
+    },
+    {
+      "id": "category11",
+      "name": "Тарт",
+      "slug": "category11",
+      "order": 25,
+      "items": [
+        {
+          "id": "99",
+          "name": "Тарт \"Апельсин-шоколад\"",
+          "price": 65,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/7e552ea7-ce22-4bd5-8c95-d968f15da1c1_image.jpeg",
+          "categoryId": "category11",
+          "popular": false
+        },
+        {
+          "id": "100",
+          "name": "Тарт \"Баноффі\"",
+          "price": 65,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/3b21a0cb-4759-4391-a03e-4182269896f8_image.jpeg",
+          "categoryId": "category11",
+          "popular": false
+        },
+        {
+          "id": "101",
+          "name": "Тарт \"Карамельно-горіховий\"",
+          "price": 65,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/4f3e5e47-d178-46f6-b306-4142117c6fb6_image.jpeg",
+          "categoryId": "category11",
+          "popular": false
+        },
+        {
+          "id": "102",
+          "name": "Тарт \"Лимонний\"",
+          "price": 65,
+          "currency": "₴",
+          "categoryId": "category11",
+          "popular": false
+        },
+        {
+          "id": "269",
+          "name": "Тарт \"Полуничний\"",
+          "price": 65,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/ecb02991-6e75-43b3-810f-c13fbf31e4e0_image.jpeg",
+          "categoryId": "category11",
+          "popular": false
+        },
+        {
+          "id": "270",
+          "name": "Тарт \"Снікерс\"",
+          "price": 99,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/bd72a31c-4081-49b8-a4a9-5cbd13d9b0d9_image.jpeg",
+          "categoryId": "category11",
+          "popular": false
+        },
+        {
+          "id": "271",
+          "name": "Тарт \"Чорничний\"",
+          "price": 74,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/6b052cca-ae08-4605-88a5-a05133b6c503_image.jpeg",
+          "categoryId": "category11",
+          "popular": false
+        },
+        {
+          "id": "393",
+          "name": "Тарт \"Яблучний Прайм\"",
+          "price": 65,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/04890b4f-3edf-4101-84c1-baa5aedd7d12_image.jpeg",
+          "categoryId": "category11",
+          "popular": false
+        },
+        {
+          "id": "448",
+          "name": "Тарт \"Дубайський\"",
+          "price": 119,
+          "currency": "₴",
+          "categoryId": "category11",
+          "popular": false
+        },
+        {
+          "id": "488",
+          "name": "Тарт \"Фундучно-персиковий\"",
+          "price": 75,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/fb6e3134-955e-4b19-a70b-6e7b1939a293_image.jpeg",
+          "categoryId": "category11",
+          "popular": false
+        },
+        {
+          "id": "538",
+          "name": "Тарт \"Лимон-лохина\"",
+          "price": 69,
+          "currency": "₴",
+          "categoryId": "category11",
+          "popular": false
+        },
+        {
+          "id": "680",
+          "name": "Тарт \"Франжипан Полуниця\"",
+          "price": 95,
+          "currency": "₴",
+          "categoryId": "category11",
+          "popular": false
+        },
+        {
+          "id": "692",
+          "name": "Тарт \"Творожний ЧЕРРІЗ\"",
+          "price": 86,
+          "currency": "₴",
+          "categoryId": "category11",
+          "popular": false
+        },
+        {
+          "id": "698",
+          "name": "Тарт \"Малина\"",
+          "price": 86,
+          "currency": "₴",
+          "categoryId": "category11",
+          "popular": false
+        }
+      ]
+    },
+    {
+      "id": "category10",
+      "name": "Моті",
+      "slug": "category10",
+      "order": 26,
+      "items": [
+        {
+          "id": "364",
+          "name": "Моті в асортименті.",
+          "price": 75,
+          "currency": "₴",
+          "categoryId": "category10",
+          "popular": false
+        },
+        {
+          "id": "446",
+          "name": "Моті \"Дубайський шоколад\"",
+          "price": 95,
+          "currency": "₴",
+          "categoryId": "category10",
+          "popular": false
+        }
+      ]
+    },
+    {
+      "id": "category8",
+      "name": "Торт",
+      "slug": "category8",
+      "order": 27,
+      "items": [
+        {
+          "id": "33",
+          "name": "Торт \"Аметист\"",
+          "price": 126,
+          "currency": "₴",
+          "categoryId": "category8",
+          "popular": false
+        },
+        {
+          "id": "40",
+          "name": "Торт \"Milk cake\"",
+          "price": 95,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/389e426a-98f1-4de7-90ac-4b2008dfe90b_image.jpeg",
+          "categoryId": "category8",
+          "popular": false
+        },
+        {
+          "id": "41",
+          "name": "Торт \"Pina Colada\"",
+          "price": 119,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/8b41b1e7-f939-4a7e-a0f8-98a52eb1f383_image.jpeg",
+          "categoryId": "category8",
+          "popular": false
+        },
+        {
+          "id": "42",
+          "name": "Торт \"Rafaello\"",
+          "price": 79,
+          "currency": "₴",
+          "categoryId": "category8",
+          "popular": false
+        },
+        {
+          "id": "43",
+          "name": "Торт \"Білий Снікерс\"",
+          "price": 119,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/21a7a16c-b1c2-4cba-9fe2-46d4112e6eb4_image.jpeg",
+          "categoryId": "category8",
+          "popular": false
+        },
+        {
+          "id": "45",
+          "name": "Торт \"Дольче Віта\"",
+          "price": 119,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/7ca2baf6-e7e5-4237-a729-ccb9c3e1a961_image.jpeg",
+          "categoryId": "category8",
+          "popular": false
+        },
+        {
+          "id": "47",
+          "name": "Торт \"Карпатка полунична\"",
+          "price": 89,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/c8830eed-c862-480d-aa9b-35488807ebcb_image.jpeg",
+          "categoryId": "category8",
+          "popular": false
+        },
+        {
+          "id": "48",
+          "name": "Торт \"Червоний оксамит\"\"",
+          "price": 76,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/d907f70d-3674-420c-960b-afcd3c6362e9_image.jpeg",
+          "categoryId": "category8",
+          "popular": false
+        },
+        {
+          "id": "49",
+          "name": "Торт \"Кучерявий пінчер\"",
+          "price": 85,
+          "currency": "₴",
+          "categoryId": "category8",
+          "popular": false
+        },
+        {
+          "id": "50",
+          "name": "Торт \"Малинове Кремю\"",
+          "price": 95,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/3cf083a9-8a53-44b3-8de5-c4706f47377e_image.jpeg",
+          "categoryId": "category8",
+          "popular": false
+        },
+        {
+          "id": "51",
+          "name": "Торт \"Манго-Маракуя\"",
+          "price": 126,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/44289a02-5624-4614-95d1-2b4864625c8c_image.jpeg",
+          "categoryId": "category8",
+          "popular": false
+        },
+        {
+          "id": "53",
+          "name": "Торт \"Молочна дівчина\"",
+          "price": 79,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/1b9ac16a-eead-4658-a907-09bdc3c21925_image.jpeg",
+          "categoryId": "category8",
+          "popular": false
+        },
+        {
+          "id": "54",
+          "name": "Торт \"Молочна карамельна дівчина\"",
+          "price": 84,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/7b5f0494-aedd-4256-b8f7-4ef82fbd9498_image.jpeg",
+          "categoryId": "category8",
+          "popular": false
+        },
+        {
+          "id": "55",
+          "name": "Торт \"Морозиво Мілка\"",
+          "price": 84,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/9edabc12-0ac7-4e3c-9024-51acba362582_image.jpeg",
+          "categoryId": "category8",
+          "popular": false
+        },
+        {
+          "id": "56",
+          "name": "Торт \"Наполеон домашній\"",
+          "price": 79,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/1ef0f372-962e-4e1b-8240-a153821fc59d_image.jpeg",
+          "categoryId": "category8",
+          "popular": false
+        },
+        {
+          "id": "57",
+          "name": "Торт \"Ніжний поцілунок\"",
+          "price": 89,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/16a2395c-bf0a-4899-a4ba-0e0c73a75a02_image.jpeg",
+          "categoryId": "category8",
+          "popular": false
+        },
+        {
+          "id": "58",
+          "name": "Торт \"Орео\"",
+          "price": 99,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/ef48e0bc-cdd1-4cab-861f-1877e5c59d82_image.jpeg",
+          "categoryId": "category8",
+          "popular": false
+        },
+        {
+          "id": "59",
+          "name": "Торт \"Персиковий\"",
+          "price": 115,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/4b66aa5f-6418-4b31-9217-2652d749882f_image.jpeg",
+          "categoryId": "category8",
+          "popular": false
+        },
+        {
+          "id": "60",
+          "name": "Торт \"Повітряний замок\"",
+          "price": 75,
+          "currency": "₴",
+          "categoryId": "category8",
+          "popular": false
+        },
+        {
+          "id": "65",
+          "name": "Торт \"Спартак\"",
+          "price": 85,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/d052c6f0-ed0d-4867-a824-11f973ea3e9b_image.jpeg",
+          "categoryId": "category8",
+          "popular": false
+        },
+        {
+          "id": "66",
+          "name": "Торт \"Суфле з фруктами\"",
+          "price": 75,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/dcc43d42-24b8-4825-bfb8-629114b73f6b_image.jpeg",
+          "categoryId": "category8",
+          "popular": false
+        },
+        {
+          "id": "67",
+          "name": "Торт \"Ферреро Роше\"",
+          "price": 82,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/25b90b96-cdd5-4451-8394-ed6131fde0ee_image.jpeg",
+          "categoryId": "category8",
+          "popular": false
+        },
+        {
+          "id": "68",
+          "name": "Торт \"Фісташкова симфонія\"",
+          "price": 95,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/6fc52f20-4b08-4ec6-b912-dd0b058cb527_image.jpeg",
+          "categoryId": "category8",
+          "popular": false
+        },
+        {
+          "id": "69",
+          "name": "Торт \"Хрещатий Яр\"",
+          "price": 125,
+          "currency": "₴",
+          "categoryId": "category8",
+          "popular": false
+        },
+        {
+          "id": "70",
+          "name": "Торт \"Чорний ліс\"",
+          "price": 95,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/29589095-c2e3-4dc7-959a-b56d9f4a764c_image.jpeg",
+          "categoryId": "category8",
+          "popular": false
+        },
+        {
+          "id": "73",
+          "name": "Мусовий торт \"Полуничний пломбір\"",
+          "price": 125,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/f756b826-d638-4d6a-8721-c44bdd00f0bf_image.jpeg",
+          "categoryId": "category8",
+          "popular": false
+        },
+        {
+          "id": "74",
+          "name": "Мусовий торт \"Фісташково-журавлинний\"",
+          "price": 95,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/75ab0373-18dd-4905-a8ee-3b4767219ca8_image.jpeg",
+          "categoryId": "category8",
+          "popular": false
+        },
+        {
+          "id": "272",
+          "name": "Торт \"Мільфей Дор Блю\"",
+          "price": 135,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/a469a1b7-d4d3-4844-ab49-640afb94c851_image.jpeg",
+          "categoryId": "category8",
+          "popular": false
+        },
+        {
+          "id": "274",
+          "name": "Торт \"Молочна дівчина Бабл-гам\"",
+          "price": 135,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/ca81e6ad-21ca-4975-a578-5b6dc48c0cc9_image.jpeg",
+          "categoryId": "category8",
+          "popular": false
+        },
+        {
+          "id": "276",
+          "name": "Торт \"Мохіто\"",
+          "price": 99,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/6310157a-0cb7-4ceb-88e0-8413427cc547_image.jpeg",
+          "categoryId": "category8",
+          "popular": false
+        },
+        {
+          "id": "287",
+          "name": "Мусовий торт \"АПЕЛЬСИН\"",
+          "price": 135,
+          "currency": "₴",
+          "categoryId": "category8",
+          "popular": false
+        },
+        {
+          "id": "334",
+          "name": "Торт \"Мільфей ПЕРСИК\"",
+          "price": 135,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/3179e31e-63bc-4865-b92c-82b83edabdd6_image.jpeg",
+          "categoryId": "category8",
+          "popular": false
+        },
+        {
+          "id": "349",
+          "name": "Мусовий торт \"Банановий Рай\"",
+          "price": 115,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/95f5cc6d-b2ef-4ace-a7c6-956c6ea64917_image.jpeg",
+          "categoryId": "category8",
+          "popular": false
+        },
+        {
+          "id": "361",
+          "name": "Торт \"Прага\"",
+          "price": 95,
+          "currency": "₴",
+          "categoryId": "category8",
+          "popular": false
+        },
+        {
+          "id": "397",
+          "name": "Торт \"Яблуневий фрезьє\"",
+          "price": 95,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/34868128-fd88-4ee5-a184-20ac4c83c95f_image.jpeg",
+          "categoryId": "category8",
+          "popular": false
+        },
+        {
+          "id": "431",
+          "name": "Торт медовик \"Пряна груша\"",
+          "price": 85,
+          "currency": "₴",
+          "categoryId": "category8",
+          "popular": false
+        },
+        {
+          "id": "442",
+          "name": "Торт \"Еспресо\"",
+          "price": 85,
+          "currency": "₴",
+          "categoryId": "category8",
+          "popular": false
+        },
+        {
+          "id": "443",
+          "name": "Торт \"Пташине молоко\"",
+          "price": 75,
+          "currency": "₴",
+          "categoryId": "category8",
+          "popular": false
+        },
+        {
+          "id": "454",
+          "name": "Мусовий торт \"ФІСТАШКА ВИШНЯ\"",
+          "price": 95,
+          "currency": "₴",
+          "categoryId": "category8",
+          "popular": false
+        },
+        {
+          "id": "455",
+          "name": "Торт \"Медовик класичний\"",
+          "price": 95,
+          "currency": "₴",
+          "categoryId": "category8",
+          "popular": false
+        },
+        {
+          "id": "457",
+          "name": "Торт \"Шоколадний трюфель\"",
+          "price": 135,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/4f8eeee0-2d57-4d5b-aa00-33311c56ec55_image.jpeg",
+          "categoryId": "category8",
+          "popular": false
+        },
+        {
+          "id": "460",
+          "name": "Торт \"МЕЛЛЕР\"",
+          "price": 135,
+          "currency": "₴",
+          "categoryId": "category8",
+          "popular": false
+        },
+        {
+          "id": "464",
+          "name": "Торт \"Парадіз Снікерс\"",
+          "price": 135,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/7eade8a2-54f2-4d9f-b634-6e9f8bfbd2ec_image.jpeg",
+          "categoryId": "category8",
+          "popular": false
+        },
+        {
+          "id": "481",
+          "name": "Торт \"Полуничний фрезьє\"",
+          "price": 95,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/46acc0cb-8df2-4408-bbda-0f63a26091f9_image.jpeg",
+          "categoryId": "category8",
+          "popular": false
+        },
+        {
+          "id": "493",
+          "name": "Торт \"Пікантний дор-блю-слива-пармезан\"",
+          "price": 139,
+          "currency": "₴",
+          "categoryId": "category8",
+          "popular": false
+        },
+        {
+          "id": "498",
+          "name": "Рулет \"Полунично-кавовий\"",
+          "price": 129,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/6ce16b07-b7e2-4164-bbcf-5be71c85d1af_image.jpeg",
+          "categoryId": "category8",
+          "popular": false
+        },
+        {
+          "id": "501",
+          "name": "Меренговий рулет \"Лимон-чорниця\"",
+          "price": 95,
+          "currency": "₴",
+          "categoryId": "category8",
+          "popular": false
+        },
+        {
+          "id": "511",
+          "name": "Торт \"Смарагдовий медовик з малиною\"",
+          "price": 95,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/c6dcbbc0-8e20-4c99-bf3d-ac426619c647_image.jpeg",
+          "categoryId": "category8",
+          "popular": false
+        },
+        {
+          "id": "512",
+          "name": "Торт \"МІЛЬФЕЙ Шоколадний\"",
+          "price": 135,
+          "currency": "₴",
+          "categoryId": "category8",
+          "popular": false
+        },
+        {
+          "id": "517",
+          "name": "Торт \"Малиновий фрезьє\"",
+          "price": 95,
+          "currency": "₴",
+          "categoryId": "category8",
+          "popular": false
+        },
+        {
+          "id": "540",
+          "name": "Торт \"Чорничний фрезьє\"",
+          "price": 95,
+          "currency": "₴",
+          "categoryId": "category8",
+          "popular": false
+        },
+        {
+          "id": "552",
+          "name": "Торт \"Цитрус-морква\"",
+          "price": 125,
+          "currency": "₴",
+          "categoryId": "category8",
+          "popular": false
+        },
+        {
+          "id": "608",
+          "name": "Торт \"Київський\"",
+          "price": 125,
+          "currency": "₴",
+          "categoryId": "category8",
+          "popular": false
+        },
+        {
+          "id": "614",
+          "name": "Торт \"ЕСТЕР\"",
+          "price": 145,
+          "currency": "₴",
+          "categoryId": "category8",
+          "popular": false
+        },
+        {
+          "id": "621",
+          "name": "Торт \"СНІКЕРС\"",
+          "price": 145,
+          "currency": "₴",
+          "categoryId": "category8",
+          "popular": false
+        },
+        {
+          "id": "622",
+          "name": "Торт \"ЕСТЕРХАЗІ\"",
+          "price": 145,
+          "currency": "₴",
+          "categoryId": "category8",
+          "popular": false
+        },
+        {
+          "id": "661",
+          "name": "Торт \"Полуниця\"",
+          "price": 119,
+          "currency": "₴",
+          "categoryId": "category8",
+          "popular": false
+        },
+        {
+          "id": "662",
+          "name": "Лимонний пиріг",
+          "price": 79,
+          "currency": "₴",
+          "categoryId": "category8",
+          "popular": false
+        },
+        {
+          "id": "664",
+          "name": "Торт \"Грушевий лимонад\"",
+          "price": 139,
+          "currency": "₴",
+          "categoryId": "category8",
+          "popular": false
+        },
+        {
+          "id": "671",
+          "name": "Торт \"ПОЛУНИЧНИЙ Пташине молоко\"",
+          "price": 78,
+          "currency": "₴",
+          "categoryId": "category8",
+          "popular": false
+        },
+        {
+          "id": "695",
+          "name": "Торт \"Журавлиний\"",
+          "price": 129,
+          "currency": "₴",
+          "categoryId": "category8",
+          "popular": false
+        },
+        {
+          "id": "696",
+          "name": "Мусовий торт \"Вишня-шоколад\"",
+          "price": 129,
+          "currency": "₴",
+          "categoryId": "category8",
+          "popular": false
+        }
+      ]
+    },
+    {
+      "id": "category6",
+      "name": "Чай",
+      "slug": "category6",
+      "order": 28,
+      "items": [
+        {
+          "id": "15",
+          "name": "Чай імбирно-медовий 450мл",
+          "price": 85,
+          "currency": "₴",
+          "categoryId": "category6",
+          "popular": false
+        },
+        {
+          "id": "358",
+          "name": "Чай обліпиха/малина 450мл",
+          "price": 85,
+          "currency": "₴",
+          "categoryId": "category6",
+          "popular": false
+        },
+        {
+          "id": "359",
+          "name": "Чай \"Пряна вишня\"",
+          "price": 89,
+          "currency": "₴",
+          "categoryId": "category6",
+          "popular": false
+        },
+        {
+          "id": "362",
+          "name": "Чай \"Анчан\"",
+          "price": 69,
+          "currency": "₴",
+          "categoryId": "category6",
+          "popular": false
+        },
+        {
+          "id": "399",
+          "name": "Чай \"Цитрусовий мікс\"",
+          "price": 85,
+          "currency": "₴",
+          "categoryId": "category6",
+          "popular": false
+        },
+        {
+          "id": "420",
+          "name": "Глінтвейн",
+          "price": 99,
+          "currency": "₴",
+          "categoryId": "category6",
+          "popular": false
+        },
+        {
+          "id": "557",
+          "name": "Матча Alpro",
+          "price": 99,
+          "currency": "₴",
+          "categoryId": "category6",
+          "popular": false
+        },
+        {
+          "id": "562",
+          "name": "Чай \"Цитрусова обліпиха\"",
+          "price": 89,
+          "currency": "₴",
+          "categoryId": "category6",
+          "popular": false
+        },
+        {
+          "id": "581",
+          "name": "Чай \"Ягідний\"",
+          "price": 85,
+          "currency": "₴",
+          "categoryId": "category6",
+          "popular": false
+        },
+        {
+          "id": "585",
+          "name": "Чай \"Снігова хризантема\"",
+          "price": 69,
+          "currency": "₴",
+          "categoryId": "category6",
+          "popular": false
+        }
+      ]
+    },
+    {
+      "id": "category19",
+      "name": "Круасани солодкі",
+      "slug": "category19",
+      "order": 29,
+      "items": [
+        {
+          "id": "235",
+          "name": "Слойка з кленовим сиропом",
+          "price": 64,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/8d443589-ad89-44da-9886-2ac7140262ab_image.jpeg",
+          "categoryId": "category19",
+          "popular": false
+        },
+        {
+          "id": "365",
+          "name": "Патті Філо з вишнею та заварним кремом",
+          "price": 79,
+          "currency": "₴",
+          "categoryId": "category19",
+          "popular": false
+        },
+        {
+          "id": "524",
+          "name": "Патті Філло з персиком",
+          "price": 69,
+          "currency": "₴",
+          "categoryId": "category19",
+          "popular": false
+        },
+        {
+          "id": "528",
+          "name": "Патті філло з малиною",
+          "price": 35,
+          "currency": "₴",
+          "categoryId": "category19",
+          "popular": false
+        }
+      ]
+    },
+    {
+      "id": "category18",
+      "name": "Круасани ситні",
+      "slug": "category18",
+      "order": 30,
+      "items": [
+        {
+          "id": "132",
+          "name": "Круасан з бужениною",
+          "price": 95,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/a4dba797-b9d5-4ab8-b89b-39b957c99062_image.jpeg",
+          "categoryId": "category18",
+          "popular": false
+        },
+        {
+          "id": "133",
+          "name": "Круасан із червоною рибою",
+          "price": 135,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/53b27e75-8f9f-4ab5-8087-b3fa5a18c752_image.jpeg",
+          "categoryId": "category18",
+          "popular": false
+        },
+        {
+          "id": "134",
+          "name": "Круасан чотири сира",
+          "price": 99,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/03201993-d793-437d-9f51-f0b443a6d0c8_image.jpeg",
+          "categoryId": "category18",
+          "popular": false
+        },
+        {
+          "id": "135",
+          "name": "Круасан \"Цезарь\"",
+          "price": 95,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/216d1ce2-7ede-4e5d-a4be-2ac0b37c0e82_image.jpeg",
+          "categoryId": "category18",
+          "popular": false
+        },
+        {
+          "id": "332",
+          "name": "Круасан з куркою теріяки та імбирем",
+          "price": 95,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/650afc8e-3f55-4d16-bc67-db497ad00bf3_image.jpeg",
+          "categoryId": "category18",
+          "popular": false
+        },
+        {
+          "id": "374",
+          "name": "Патті Філло з м'ясом",
+          "price": 79,
+          "currency": "₴",
+          "categoryId": "category18",
+          "popular": false
+        },
+        {
+          "id": "375",
+          "name": "Патті Філло з сиром та зеленню",
+          "price": 74,
+          "currency": "₴",
+          "categoryId": "category18",
+          "popular": false
+        },
+        {
+          "id": "380",
+          "name": "Хачапурі з баликом",
+          "price": 99,
+          "currency": "₴",
+          "categoryId": "category18",
+          "popular": false
+        },
+        {
+          "id": "482",
+          "name": "Круасан з шинкою та часниковим соусом",
+          "price": 105,
+          "currency": "₴",
+          "categoryId": "category18",
+          "popular": false
+        },
+        {
+          "id": "535",
+          "name": "Патті Філло з грибами",
+          "price": 30,
+          "currency": "₴",
+          "categoryId": "category18",
+          "popular": false
+        },
+        {
+          "id": "543",
+          "name": "Круасан з креветкою та італійським соусом",
+          "price": 125,
+          "currency": "₴",
+          "categoryId": "category18",
+          "popular": false
+        },
+        {
+          "id": "545",
+          "name": "Круасан з баликом",
+          "price": 95,
+          "currency": "₴",
+          "categoryId": "category18",
+          "popular": false
+        },
+        {
+          "id": "547",
+          "name": "Круассан з беконом та перцем халапенья",
+          "price": 105,
+          "currency": "₴",
+          "categoryId": "category18",
+          "popular": false
+        },
+        {
+          "id": "548",
+          "name": "Круасан з сосискою та сиром \"Чеддер\"",
+          "price": 99,
+          "currency": "₴",
+          "categoryId": "category18",
+          "popular": false
+        },
+        {
+          "id": "600",
+          "name": "Корн-дог",
+          "price": 85,
+          "currency": "₴",
+          "categoryId": "category18",
+          "popular": false
+        },
+        {
+          "id": "694",
+          "name": "Круасан \"Мексикано\"",
+          "price": 0,
+          "currency": "₴",
+          "categoryId": "category18",
+          "popular": false
+        }
+      ]
+    },
+    {
+      "id": "category20",
+      "name": "Хот-Дог",
+      "slug": "category20",
+      "order": 31,
+      "items": [
+        {
+          "id": "136",
+          "name": "Хот-Дог \"Французький\"",
+          "price": 58,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/8831fde9-3bf9-40f6-b2c5-3ad35f6df85b_image.jpeg",
+          "categoryId": "category20",
+          "popular": false
+        },
+        {
+          "id": "137",
+          "name": "Хот-Дог \"Баварський\"",
+          "price": 69,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/33fd8b05-a685-49ad-b846-d91f2c99eaa2_image.jpeg",
+          "categoryId": "category20",
+          "popular": false
+        },
+        {
+          "id": "138",
+          "name": "Хот-Дог \"Салямі\"",
+          "price": 106,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/28ed7eca-c674-4dfd-b0e4-24a02de3bd3b_image.jpeg",
+          "categoryId": "category20",
+          "popular": false
+        },
+        {
+          "id": "550",
+          "name": "Хот-Дог з сиром та кукурудзою",
+          "price": 118,
+          "currency": "₴",
+          "categoryId": "category20",
+          "popular": false
+        }
+      ]
+    },
+    {
+      "id": "category21",
+      "name": "Бутербродна група",
+      "slug": "category21",
+      "order": 32,
+      "items": [
+        {
+          "id": "382",
+          "name": "Кебаб у лаваші",
+          "price": 120,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/410187db-d262-47ff-9a26-d33581306ede_image.jpeg",
+          "categoryId": "category21",
+          "popular": false
+        },
+        {
+          "id": "594",
+          "name": "Ролліні з телятиною",
+          "price": 55,
+          "currency": "₴",
+          "categoryId": "category21",
+          "popular": false
+        },
+        {
+          "id": "595",
+          "name": "Ролліні з бринзою та шпинатом",
+          "price": 24,
+          "currency": "₴",
+          "categoryId": "category21",
+          "popular": false
+        },
+        {
+          "id": "625",
+          "name": "Ролліні з куркою",
+          "price": 25,
+          "currency": "₴",
+          "categoryId": "category21",
+          "popular": false
+        },
+        {
+          "id": "666",
+          "name": "Італійський сендвіч",
+          "price": 120,
+          "currency": "₴",
+          "categoryId": "category21",
+          "popular": false
+        }
+      ]
+    },
+    {
+      "id": "category33",
+      "name": "Чіабата ",
+      "slug": "category33",
+      "order": 33,
+      "items": [
+        {
+          "id": "227",
+          "name": "Чіабата житня з бужениною та маринованим огірком",
+          "price": 115,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/507c7b97-1885-4608-a171-f10f06b14308_image.jpeg",
+          "categoryId": "category33",
+          "popular": false
+        },
+        {
+          "id": "228",
+          "name": "Чіабата пшенична із хрусткою куркою",
+          "price": 159,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/5351bb90-2db2-4a2d-87bb-49b9eb145646_image.jpeg",
+          "categoryId": "category33",
+          "popular": false
+        }
+      ]
+    },
+    {
+      "id": "category32",
+      "name": "Гамбургери",
+      "slug": "category32",
+      "order": 34,
+      "items": [
+        {
+          "id": "223",
+          "name": "Гамбургер з червоною рибою",
+          "price": 135,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/4065297c-2116-43ff-9e7b-9113a7d096f4_image.jpeg",
+          "categoryId": "category32",
+          "popular": false
+        },
+        {
+          "id": "236",
+          "name": "Гамбургер із запеченою куркою",
+          "price": 99,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/fc5e2609-f0f2-42fa-be38-d9df5130d155_image.jpeg",
+          "categoryId": "category32",
+          "popular": false
+        },
+        {
+          "id": "477",
+          "name": "Бургер \"фірмовий\"",
+          "price": 269,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/ccaa4657-64f9-44d1-8476-d0b73f18169b_image.jpeg",
+          "categoryId": "category32",
+          "popular": false
+        },
+        {
+          "id": "609",
+          "name": "Міні бріош з курячою котлетою",
+          "price": 89,
+          "currency": "₴",
+          "categoryId": "category32",
+          "popular": false
+        },
+        {
+          "id": "629",
+          "name": "Гамбургер житній з баликом",
+          "price": 99,
+          "currency": "₴",
+          "categoryId": "category32",
+          "popular": false
+        },
+        {
+          "id": "630",
+          "name": "Гамбургер житній з бужениною",
+          "price": 99,
+          "currency": "₴",
+          "categoryId": "category32",
+          "popular": false
+        },
+        {
+          "id": "632",
+          "name": "Бургер \"CHIKEN\"",
+          "price": 295,
+          "currency": "₴",
+          "image": "https://img.postershop.me/67ed23d6e361a76a3c183366/e3a206ce-0a1b-4857-8351-37d8f7f79b90-image.jpeg",
+          "categoryId": "category32",
+          "popular": false
+        },
+        {
+          "id": "635",
+          "name": "Бургер Dor Truffe",
+          "price": 345,
+          "currency": "₴",
+          "image": "https://img.postershop.me/67ed23d6e361a76a3c183366/a2dbf8c0-070e-49cc-a919-dd843cedbeee-image.jpeg",
+          "categoryId": "category32",
+          "popular": false
+        }
+      ]
+    },
+    {
+      "id": "category31",
+      "name": "Тортильї",
+      "slug": "category31",
+      "order": 35,
+      "items": [
+        {
+          "id": "140",
+          "name": "Тортилья шпинатна з куркою",
+          "price": 125,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/1d982b23-a558-4aa4-9c8b-50c4183c59e8_image.jpeg",
+          "categoryId": "category31",
+          "popular": false
+        }
+      ]
+    },
+    {
+      "id": "category22",
+      "name": "Салати",
+      "slug": "category22",
+      "order": 36,
+      "items": [
+        {
+          "id": "147",
+          "name": "Салат  із пікантною куркою та сиром",
+          "price": 129,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/ff756241-95ca-49eb-b8cf-2647e4f58e47_image.jpeg",
+          "categoryId": "category22",
+          "popular": false
+        },
+        {
+          "id": "149",
+          "name": "Салат із червоною рибою",
+          "price": 179,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/0c1aab18-fa9a-4527-abea-013f494aa7dd_image.jpeg",
+          "categoryId": "category22",
+          "popular": false
+        },
+        {
+          "id": "506",
+          "name": "Салат овочевий з оливками та фетой",
+          "price": 129,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/a4bba81e-0c0e-42ae-af4f-bc4816915d45_image.jpeg",
+          "categoryId": "category22",
+          "popular": false
+        },
+        {
+          "id": "508",
+          "name": "Салат із креветками",
+          "price": 179,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/00f8ad3d-7668-4579-bf28-5eae7e850b65_image.jpeg",
+          "categoryId": "category22",
+          "popular": false
+        }
+      ]
+    },
+    {
+      "id": "category23",
+      "name": "Вода/сік",
+      "slug": "category23",
+      "order": 37,
+      "items": [
+        {
+          "id": "1",
+          "name": "Боржомі 0.5",
+          "price": 99,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/c05fef51-ce1a-4a1d-ba75-0efabc309005_image.jpg",
+          "categoryId": "category23",
+          "popular": true
+        },
+        {
+          "id": "150",
+          "name": "Cola з/б",
+          "price": 55,
+          "currency": "₴",
+          "categoryId": "category23",
+          "popular": false
+        },
+        {
+          "id": "151",
+          "name": "Боржомі з/б",
+          "price": 66,
+          "currency": "₴",
+          "categoryId": "category23",
+          "popular": false
+        },
+        {
+          "id": "152",
+          "name": "Вода 0,5",
+          "price": 45,
+          "currency": "₴",
+          "categoryId": "category23",
+          "popular": false
+        },
+        {
+          "id": "153",
+          "name": "Сік 0.2",
+          "price": 49,
+          "currency": "₴",
+          "categoryId": "category23",
+          "popular": false
+        },
+        {
+          "id": "154",
+          "name": "Cola 0,5",
+          "price": 59,
+          "currency": "₴",
+          "categoryId": "category23",
+          "popular": false
+        },
+        {
+          "id": "155",
+          "name": "Fanta з/б",
+          "price": 55,
+          "currency": "₴",
+          "categoryId": "category23",
+          "popular": false
+        },
+        {
+          "id": "156",
+          "name": "Sprite з/б",
+          "price": 55,
+          "currency": "₴",
+          "categoryId": "category23",
+          "popular": false
+        },
+        {
+          "id": "303",
+          "name": "Cola (скло)",
+          "price": 69,
+          "currency": "₴",
+          "categoryId": "category23",
+          "popular": false
+        }
+      ]
+    },
+    {
+      "id": "category46",
+      "name": "Енергетичні напої",
+      "slug": "category46",
+      "order": 38,
+      "items": [
+        {
+          "id": "616",
+          "name": "Напій б/а енергетичний 0,5л в асортименті",
+          "price": 52,
+          "currency": "₴",
+          "categoryId": "category46",
+          "popular": false
+        },
+        {
+          "id": "617",
+          "name": "Напій б/а в асортименті 0,5л.",
+          "price": 46,
+          "currency": "₴",
+          "categoryId": "category46",
+          "popular": false
+        },
+        {
+          "id": "619",
+          "name": "Квас \"Квас Тарас \" 0,5л в асортименті",
+          "price": 42,
+          "currency": "₴",
+          "categoryId": "category46",
+          "popular": false
+        },
+        {
+          "id": "620",
+          "name": "Напій б/а енергетичний соковий 0,5л в асортименті",
+          "price": 59,
+          "currency": "₴",
+          "categoryId": "category46",
+          "popular": false
+        }
+      ]
+    },
+    {
+      "id": "category25",
+      "name": "Сніданки",
+      "slug": "category25",
+      "order": 39,
+      "items": [
+        {
+          "id": "165",
+          "name": "КІШ із червоною рибою",
+          "price": 115,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/1a47cc76-a698-42cf-9197-9e3ad4fbd274_image.jpeg",
+          "categoryId": "category25",
+          "popular": false
+        },
+        {
+          "id": "167",
+          "name": "КІШ з куркою",
+          "price": 95,
+          "currency": "₴",
+          "categoryId": "category25",
+          "popular": false
+        },
+        {
+          "id": "211",
+          "name": "Яєчня  ХХL",
+          "price": 159,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/864856ac-b885-41b5-a1af-54f3f7875d88_image.jpeg",
+          "categoryId": "category25",
+          "popular": false
+        },
+        {
+          "id": "212",
+          "name": "Яєчня з баварською сосискою",
+          "price": 125,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/747196a6-b312-477f-ad0f-3a1a807028f6_image.jpeg",
+          "categoryId": "category25",
+          "popular": false
+        },
+        {
+          "id": "213",
+          "name": "Омлет з беконом",
+          "price": 145,
+          "currency": "₴",
+          "categoryId": "category25",
+          "popular": false
+        },
+        {
+          "id": "226",
+          "name": "Омлет із червоною рибою",
+          "price": 195,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/9519605c-92fb-48d3-b7af-ca297c733e28_image.jpeg",
+          "categoryId": "category25",
+          "popular": false
+        },
+        {
+          "id": "505",
+          "name": "Кабачковий сендвіч з сирним соусом",
+          "price": 0,
+          "currency": "₴",
+          "categoryId": "category25",
+          "popular": false
+        },
+        {
+          "id": "551",
+          "name": "Сирний омлет з колбаскою у беконі",
+          "price": 179,
+          "currency": "₴",
+          "categoryId": "category25",
+          "popular": false
+        }
+      ]
+    },
+    {
+      "id": "category26",
+      "name": "Перші страви",
+      "slug": "category26",
+      "order": 40,
+      "items": [
+        {
+          "id": "168",
+          "name": "Окрошка на айрані",
+          "price": 159,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/1b3f8175-d466-422d-bcee-3ac179bff874_image.jpeg",
+          "categoryId": "category26",
+          "popular": false
+        },
+        {
+          "id": "169",
+          "name": "Курячий бульйон з рисовою локшиною",
+          "price": 69,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/a371d118-cb13-43ad-8f49-57ee6e6d77cc_image.jpeg",
+          "categoryId": "category26",
+          "popular": false
+        },
+        {
+          "id": "686",
+          "name": "Крем-суп грибний",
+          "price": 99,
+          "currency": "₴",
+          "categoryId": "category26",
+          "popular": false
+        }
+      ]
+    },
+    {
+      "id": "category29",
+      "name": "ДОП",
+      "slug": "category29",
+      "order": 41,
+      "items": [
+        {
+          "id": "210",
+          "name": "Маршмеллоу",
+          "price": 15,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/f0811d0e-9943-4629-a8fb-472f07594bff_image.jpeg",
+          "categoryId": "category29",
+          "popular": false
+        },
+        {
+          "id": "240",
+          "name": "Желе \"Bubble tea\"",
+          "price": 30,
+          "currency": "₴",
+          "categoryId": "category29",
+          "popular": false
+        },
+        {
+          "id": "244",
+          "name": "Бабл ті в асортименті",
+          "price": 30,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/4d4b1a9e-855f-4e70-98f0-6d6e39a7a4df_image.jpeg",
+          "categoryId": "category29",
+          "popular": false
+        },
+        {
+          "id": "245",
+          "name": "Молоко",
+          "price": 8,
+          "currency": "₴",
+          "categoryId": "category29",
+          "popular": false
+        },
+        {
+          "id": "246",
+          "name": "Вершки рідкі",
+          "price": 15,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/9d0795a5-d72d-4949-afd8-c0042b3261fd_image.jpeg",
+          "categoryId": "category29",
+          "popular": false
+        },
+        {
+          "id": "247",
+          "name": "Лимон",
+          "price": 6,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/a2808044-7e21-41ea-a5cc-8fab8aaf8fb2_image.jpeg",
+          "categoryId": "category29",
+          "popular": false
+        },
+        {
+          "id": "248",
+          "name": "М'ята",
+          "price": 10,
+          "currency": "₴",
+          "categoryId": "category29",
+          "popular": false
+        },
+        {
+          "id": "249",
+          "name": "Апельсин",
+          "price": 5,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/90e1b689-f9b7-47b4-982e-2692ffa347e4_image.jpeg",
+          "categoryId": "category29",
+          "popular": false
+        },
+        {
+          "id": "250",
+          "name": "Мед",
+          "price": 12,
+          "currency": "₴",
+          "categoryId": "category29",
+          "popular": false
+        },
+        {
+          "id": "251",
+          "name": "Огірок",
+          "price": 12,
+          "currency": "₴",
+          "categoryId": "category29",
+          "popular": false
+        },
+        {
+          "id": "252",
+          "name": "Огірок маринований",
+          "price": 6,
+          "currency": "₴",
+          "categoryId": "category29",
+          "popular": false
+        },
+        {
+          "id": "253",
+          "name": "Помідор",
+          "price": 10,
+          "currency": "₴",
+          "categoryId": "category29",
+          "popular": false
+        },
+        {
+          "id": "254",
+          "name": "Сир \"Моцарела\"",
+          "price": 15,
+          "currency": "₴",
+          "categoryId": "category29",
+          "popular": false
+        },
+        {
+          "id": "255",
+          "name": "Зелень",
+          "price": 8,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/7f25d758-9e35-40b8-aacd-3732f9270b0e_image.jpeg",
+          "categoryId": "category29",
+          "popular": false
+        },
+        {
+          "id": "256",
+          "name": "Бекон",
+          "price": 55,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/1b0fdbee-2bdf-48d0-9e51-c8a687086746_image.jpeg",
+          "categoryId": "category29",
+          "popular": false
+        },
+        {
+          "id": "257",
+          "name": "Балик",
+          "price": 30,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/02f05877-4de3-4804-959f-103c631c2809_image.jpeg",
+          "categoryId": "category29",
+          "popular": false
+        },
+        {
+          "id": "258",
+          "name": "Гриби",
+          "price": 12,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/5e87668a-da42-410b-96c3-37a7c427ce7e_image.jpeg",
+          "categoryId": "category29",
+          "popular": false
+        },
+        {
+          "id": "259",
+          "name": "Перець салатний",
+          "price": 15,
+          "currency": "₴",
+          "categoryId": "category29",
+          "popular": false
+        },
+        {
+          "id": "260",
+          "name": "Сметана",
+          "price": 10,
+          "currency": "₴",
+          "categoryId": "category29",
+          "popular": false
+        },
+        {
+          "id": "261",
+          "name": "Яйце",
+          "price": 14,
+          "currency": "₴",
+          "categoryId": "category29",
+          "popular": false
+        },
+        {
+          "id": "262",
+          "name": "Сироп",
+          "price": 10,
+          "currency": "₴",
+          "categoryId": "category29",
+          "popular": false
+        },
+        {
+          "id": "264",
+          "name": "Маслини",
+          "price": 25,
+          "currency": "₴",
+          "categoryId": "category29",
+          "popular": false
+        },
+        {
+          "id": "312",
+          "name": "Чіабата",
+          "price": 15,
+          "currency": "₴",
+          "categoryId": "category29",
+          "popular": false
+        },
+        {
+          "id": "316",
+          "name": "Молоко Alpro",
+          "price": 14,
+          "currency": "₴",
+          "categoryId": "category29",
+          "popular": false
+        },
+        {
+          "id": "336",
+          "name": "Кетчуп",
+          "price": 12,
+          "currency": "₴",
+          "categoryId": "category29",
+          "popular": false
+        },
+        {
+          "id": "345",
+          "name": "Вершки аерозольні",
+          "price": 25,
+          "currency": "₴",
+          "categoryId": "category29",
+          "popular": false
+        },
+        {
+          "id": "346",
+          "name": "Стакан 0,450",
+          "price": 10,
+          "currency": "₴",
+          "categoryId": "category29",
+          "popular": false
+        },
+        {
+          "id": "367",
+          "name": "Салямі",
+          "price": 20,
+          "currency": "₴",
+          "categoryId": "category29",
+          "popular": false
+        },
+        {
+          "id": "371",
+          "name": "Стевія",
+          "price": 8,
+          "currency": "₴",
+          "categoryId": "category29",
+          "popular": false
+        },
+        {
+          "id": "406",
+          "name": "Моцарела паличка 30см",
+          "price": 49,
+          "currency": "₴",
+          "categoryId": "category29",
+          "popular": false
+        },
+        {
+          "id": "407",
+          "name": "Моцарела паличка 40см",
+          "price": 79,
+          "currency": "₴",
+          "categoryId": "category29",
+          "popular": false
+        },
+        {
+          "id": "437",
+          "name": "Сьомга",
+          "price": 60,
+          "currency": "₴",
+          "categoryId": "category29",
+          "popular": false
+        },
+        {
+          "id": "486",
+          "name": "Безлактозне молоко",
+          "price": 12,
+          "currency": "₴",
+          "categoryId": "category29",
+          "popular": false
+        },
+        {
+          "id": "549",
+          "name": "Фруктове пюре",
+          "price": 24,
+          "currency": "₴",
+          "categoryId": "category29",
+          "popular": false
+        },
+        {
+          "id": "568",
+          "name": "Сосиска молочна",
+          "price": 25,
+          "currency": "₴",
+          "categoryId": "category29",
+          "popular": false
+        },
+        {
+          "id": "569",
+          "name": "Сосиска баварская",
+          "price": 35,
+          "currency": "₴",
+          "categoryId": "category29",
+          "popular": false
+        },
+        {
+          "id": "624",
+          "name": "Буженина",
+          "price": 45,
+          "currency": "₴",
+          "categoryId": "category29",
+          "popular": false
+        }
+      ]
+    },
+    {
+      "id": "category34",
+      "name": "Піца",
+      "slug": "category34",
+      "order": 42,
+      "items": [
+        {
+          "id": "231",
+          "name": "Піца \"Дор Блю з маринованою грушею",
+          "price": 196,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/fb446b52-97a0-44b6-bb01-61705d2992b7_image.jpeg",
+          "categoryId": "category34",
+          "popular": false
+        },
+        {
+          "id": "232",
+          "name": "Піца \"Карбонара\"",
+          "price": 159,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/6640b09f-a7aa-41db-bf31-32631eb11af6_image.jpeg",
+          "categoryId": "category34",
+          "popular": false
+        },
+        {
+          "id": "233",
+          "name": "Піца \"Фірмова м'ясна\"",
+          "price": 195,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/c58854d2-3d03-40ac-952a-a520a2c4e9a4_image.jpeg",
+          "categoryId": "category34",
+          "popular": false
+        },
+        {
+          "id": "234",
+          "name": "Піца з салямі та сиром моцарела",
+          "price": 189,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/7593b1af-2374-4413-b507-f245c43f21f2_image.jpeg",
+          "categoryId": "category34",
+          "popular": false
+        },
+        {
+          "id": "352",
+          "name": "Піца \"Дор Блю з маринованою грушею \" 40 см",
+          "price": 259,
+          "currency": "₴",
+          "categoryId": "category34",
+          "popular": false
+        },
+        {
+          "id": "353",
+          "name": "Піца \"Карбонара\" 40см",
+          "price": 246,
+          "currency": "₴",
+          "categoryId": "category34",
+          "popular": false
+        },
+        {
+          "id": "354",
+          "name": "Піца \"Фірмова м'ясна\" 40 см",
+          "price": 259,
+          "currency": "₴",
+          "categoryId": "category34",
+          "popular": false
+        },
+        {
+          "id": "355",
+          "name": "Піца з салямі та сиром моцарела 40 см",
+          "price": 259,
+          "currency": "₴",
+          "categoryId": "category34",
+          "popular": false
+        },
+        {
+          "id": "370",
+          "name": "Піца \"Сhicken\"",
+          "price": 175,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/135f21d5-c2c6-4fd9-9777-592913fceffa_image.jpeg",
+          "categoryId": "category34",
+          "popular": false
+        },
+        {
+          "id": "384",
+          "name": "Піца \"Сhicken\" 40 см",
+          "price": 275,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/02713d1e-c7bc-44c7-bda1-e1ef9048f248_image.jpeg",
+          "categoryId": "category34",
+          "popular": false
+        },
+        {
+          "id": "611",
+          "name": "Піца з м'ясом та білими грибами 30см",
+          "price": 199,
+          "currency": "₴",
+          "categoryId": "category34",
+          "popular": false
+        },
+        {
+          "id": "612",
+          "name": "Піца з м'ясом та білими грибами 40см",
+          "price": 299,
+          "currency": "₴",
+          "categoryId": "category34",
+          "popular": false
+        }
+      ]
+    },
+    {
+      "id": "category36",
+      "name": "Морозиво",
+      "slug": "category36",
+      "order": 43,
+      "items": [
+        {
+          "id": "265",
+          "name": "Морозиво в стакані в асортименті",
+          "price": 38,
+          "currency": "₴",
+          "categoryId": "category36",
+          "popular": false
+        },
+        {
+          "id": "266",
+          "name": "Морозиво вагове ріжок (1 кулька)",
+          "price": 45,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/a4b4ff57-4343-434b-9648-437548e59795_image.jpeg",
+          "categoryId": "category36",
+          "popular": false
+        },
+        {
+          "id": "267",
+          "name": "Морозиво вагове ріжок (2 кульки)",
+          "price": 86,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/fbc872ee-cf1d-446f-940b-c39d7735925b_image.jpeg",
+          "categoryId": "category36",
+          "popular": false
+        },
+        {
+          "id": "268",
+          "name": "Морозиво ріжок в асортименті",
+          "price": 32,
+          "currency": "₴",
+          "categoryId": "category36",
+          "popular": false
+        },
+        {
+          "id": "657",
+          "name": "Морозиво вагове стакан (1 кулька)",
+          "price": 45,
+          "currency": "₴",
+          "image": "https://img.postershop.me/67ed23d6e361a76a3c183366/be1d8219-e647-46a5-b782-6d0023f30c02-image.jpeg",
+          "categoryId": "category36",
+          "popular": false
+        },
+        {
+          "id": "658",
+          "name": "Морозиво вагове стакан (2 кульки)",
+          "price": 86,
+          "currency": "₴",
+          "image": "https://img.postershop.me/67ed23d6e361a76a3c183366/51cf9463-68a1-456c-82c7-c0c39529d30f-image.jpeg",
+          "categoryId": "category36",
+          "popular": false
+        }
+      ]
+    },
+    {
+      "id": "category42",
+      "name": "Другі страви",
+      "slug": "category42",
+      "order": 44,
+      "items": [
+        {
+          "id": "413",
+          "name": "Паста Карбонара",
+          "price": 169,
+          "currency": "₴",
+          "categoryId": "category42",
+          "popular": false
+        },
+        {
+          "id": "631",
+          "name": "Деруни з білими грибами та печерицями",
+          "price": 158,
+          "currency": "₴",
+          "image": "https://img.postershop.me/67ed23d6e361a76a3c183366/94e5bb95-7673-474e-9b0d-02438aecd3e5-image.jpeg",
+          "categoryId": "category42",
+          "popular": false
+        },
+        {
+          "id": "639",
+          "name": "Паста з індичкою та трюфелем",
+          "price": 220,
+          "currency": "₴",
+          "image": "https://img.postershop.me/67ed23d6e361a76a3c183366/e571ed7c-79fa-4e7f-96ce-a6c03d45bec5-image.jpeg",
+          "categoryId": "category42",
+          "popular": false
+        },
+        {
+          "id": "368",
+          "name": "Картопля з беконом",
+          "price": 135,
+          "currency": "₴",
+          "image": "https://img.postershop.me/20148/5fb36c0e-91a8-400a-9841-2ad8ab1229fc_image.jpeg",
+          "categoryId": "category42",
+          "popular": false
+        },
+        {
+          "id": "677",
+          "name": "Рол з індичкою та овочами",
+          "price": 169,
+          "currency": "₴",
+          "categoryId": "category42",
+          "popular": false
+        },
+        {
+          "id": "687",
+          "name": "Картопля запечена з білими грибами",
+          "price": 189,
+          "currency": "₴",
+          "categoryId": "category42",
+          "popular": false
+        },
+        {
+          "id": "688",
+          "name": "Сендвіч цукіні та червоною рибою",
+          "price": 179,
+          "currency": "₴",
+          "categoryId": "category42",
+          "popular": false
+        },
+        {
+          "id": "690",
+          "name": "Медальйони з овочами гриль",
+          "price": 249,
+          "currency": "₴",
+          "categoryId": "category42",
+          "popular": false
+        }
+      ]
+    },
+    {
+      "id": "category43",
+      "name": "Паска",
+      "slug": "category43",
+      "order": 45,
+      "items": [
+        {
+          "id": "644",
+          "name": "Паска \"Сирна\"",
+          "price": 75,
+          "currency": "₴",
+          "image": "https://img.postershop.me/67ed23d6e361a76a3c183366/fef1e390-011e-49fc-9ad1-611e29285436-image.jpeg",
+          "categoryId": "category43",
+          "popular": false
+        },
+        {
+          "id": "645",
+          "name": "Паска \"Великодня\" 250г.",
+          "price": 65,
+          "currency": "₴",
+          "image": "https://img.postershop.me/67ed23d6e361a76a3c183366/bc14279d-7c8f-4b7d-8036-646bc140e6a8-image.jpeg",
+          "categoryId": "category43",
+          "popular": false
+        },
+        {
+          "id": "646",
+          "name": "Паска \"Великодня\" 350г.",
+          "price": 89,
+          "currency": "₴",
+          "image": "https://img.postershop.me/67ed23d6e361a76a3c183366/f0e40238-9856-4267-a3db-c4fb4a7044df-image.jpeg",
+          "categoryId": "category43",
+          "popular": false
+        },
+        {
+          "id": "647",
+          "name": "Паска \"Крафтова\"",
+          "price": 74,
+          "currency": "₴",
+          "image": "https://img.postershop.me/67ed23d6e361a76a3c183366/59750f1d-1878-4b51-bde5-32942b8928d0-image.jpeg",
+          "categoryId": "category43",
+          "popular": false
+        },
+        {
+          "id": "649",
+          "name": "Паска СВЯТКОВА",
+          "price": 200,
+          "currency": "₴",
+          "categoryId": "category43",
+          "popular": false
+        }
+      ]
+    },
+    {
+      "id": "category47",
+      "name": "Ранкова кава",
+      "slug": "category47",
+      "order": 46,
+      "items": [
+        {
+          "id": "700",
+          "name": "Еспресо 30 мл (спешелті)",
+          "price": 41,
+          "currency": "₴",
+          "categoryId": "category47",
+          "popular": false
+        },
+        {
+          "id": "701",
+          "name": "Американо 120мл (спешелті)",
+          "price": 41,
+          "currency": "₴",
+          "categoryId": "category47",
+          "popular": false
+        },
+        {
+          "id": "702",
+          "name": "Капучино 250 мл (спешелті)",
+          "price": 57,
+          "currency": "₴",
+          "categoryId": "category47",
+          "popular": false
+        },
+        {
+          "id": "703",
+          "name": "Лате 250 мл (спешелті)",
+          "price": 57,
+          "currency": "₴",
+          "categoryId": "category47",
+          "popular": false
+        },
+        {
+          "id": "704",
+          "name": "Американо 120мл (дам)",
+          "price": 36,
+          "currency": "₴",
+          "categoryId": "category47",
+          "popular": false
+        },
+        {
+          "id": "705",
+          "name": "Еспресо 30 мл (дам)",
+          "price": 36,
+          "currency": "₴",
+          "categoryId": "category47",
+          "popular": false
+        },
+        {
+          "id": "706",
+          "name": "Капучино 250 мл (дам)",
+          "price": 52,
+          "currency": "₴",
+          "categoryId": "category47",
+          "popular": false
+        },
+        {
+          "id": "707",
+          "name": "Лате 250 мл (дам)",
+          "price": 52,
+          "currency": "₴",
+          "categoryId": "category47",
+          "popular": false
+        }
+      ]
+    }
+  ],
+  "currency": "₴",
+  "source": "scraped",
+  "updatedAt": "2026-06-21T14:30:29.027Z"
+}

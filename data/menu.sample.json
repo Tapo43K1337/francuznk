@@ -1,0 +1,70 @@
+[
+  {
+    "name": "Капучино 250 мл",
+    "productId": 3,
+    "description": null,
+    "groupModifications": [
+      {
+        "dishModificationGroupId": 2,
+        "name": "Молоко 180",
+        "modifications": [
+          {
+            "name": "Молоко",
+            "price": 0
+          },
+          {
+            "name": "Молоко безлактозне",
+            "price": 9
+          }
+        ]
+      },
+      {
+        "dishModificationGroupId": 18,
+        "name": "Кава 9г",
+        "modifications": [
+          {
+            "name": "Кава",
+            "price": 0
+          },
+          {
+            "name": "Кава спешелті",
+            "price": 5
+          }
+        ]
+      }
+    ],
+    "categoryPosId": "popular",
+    "categoryName": "Нове та популярне",
+    "categoryUrl": "popular",
+    "photo": "https://img.postershop.me/20148/c6c9c557-e68c-4075-8b77-05d1ce196b1f_image.jpg",
+    "price": 52,
+    "parentCategoryId": null,
+    "parentCategoryName": null,
+    "parentCategoryUrl": null,
+    "tags": [
+      {
+        "name": "popular"
+      }
+    ],
+    "isWeight": false
+  },
+  {
+    "name": "Боржомі 0.5",
+    "productId": 1,
+    "description": null,
+    "categoryPosId": "popular",
+    "categoryName": "Нове та популярне",
+    "categoryUrl": "popular",
+    "photo": "https://img.postershop.me/20148/c05fef51-ce1a-4a1d-ba75-0efabc309005_image.jpg",
+    "price": 99,
+    "parentCategoryId": null,
+    "parentCategoryName": null,
+    "parentCategoryUrl": null,
+    "tags": [
+      {
+        "name": "popular"
+      }
+    ],
+    "isWeight": false
+  }
+]
